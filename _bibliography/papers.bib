@@ -1,84 +1,801 @@
----
----
-
-@string{aps = {American Physical Society,}}
-
-@book{einstein1956investigations,
+%%% Proceedigs edition
+@proceedings{procArgApp2023,
+  editor    = {Oana Cocarascu and
+               Sylvie Doutre and
+               Jean-Guy Mailly and
+               Antonio Rago},
+  title     = {Proceedings of the First International Workshop on Argumentation and Applications ({Arg\&App}'23) co-located with the 20th International Conference on Principles of Knowledge Representation and Reasoning {(KR}'23)},
+  series       = {{CEUR} Workshop Proceedings},
+  volume       = {3472},
+  publisher    = {CEUR-WS.org},
+  year      = {2023},
+  url       = {https://ceur-ws.org/Vol-3472},
   bibtex_show={true},
-  title={Investigations on the Theory of the Brownian Movement},
-  author={Einstein, Albert},
-  year={1956},
-  publisher={Courier Corporation},
-  preview={brownian-motion.gif}
+  abbr={ArgApp},
+  selected={true},
+  html={https://ceur-ws.org/Vol-3472/},
+  abstract={Summary: There were 11 papers submitted for peer-review to this workshop. Out of these, 8 papers were accepted for this volume, 5 as regular papers and 3 as short papers. The workshop also included two invited talks: one keynote talk by Antonis Kakas (University of Cyprus), and the announcement of the results of the Fifth International Competition on Computational Models of Argumentation by Tuomo Lehtonen and Andreas Niskanen (University of Helsinki), which is included in the proceedings as an invited paper.}
 }
 
-@article{einstein1950meaning,
-  abbr={AJP},
+@proceedings{procSafa2022,
+  editor    = {Sarah Alice Gaggl and
+               Jean-Guy Mailly and
+               Matthias Thimm and
+               Johannes Peter Wallner},
+  title     = {Proceedings of the Fourth International Workshop on Systems and Algorithms for Formal Argumentation ({SAFA}'22) co-located with the 9th International Conference on Computational Models of Argument {(COMMA}'22)},
+  series    = {{CEUR} Workshop Proceedings},
+  volume    = {3236},
+  publisher = {CEUR-WS.org},
+  year      = {2022},
+  url       = {http://ceur-ws.org/Vol-3236},
   bibtex_show={true},
-  title={The meaning of relativity},
-  author={Einstein, Albert and Taub, AH},
-  journal={American Journal of Physics},
-  volume={18},
-  number={6},
-  pages={403--404},
-  year={1950},
-  publisher={American Association of Physics Teachers}
+  abbr={SAFA},
+  html={https://ceur-ws.org/Vol-3236/},
+  abstract={There were 9 submissions for peer-review to this workshop. All 9 papers were accepted for this volume.}
 }
 
-@article{PhysRev.47.777,
-  abbr={PhysRev},
-  title={Can Quantum-Mechanical Description of Physical Reality Be Considered Complete?},
-  author={Einstein, A. and Podolsky, B. and Rosen, N.},
-  abstract={In a complete theory there is an element corresponding to each element of reality. A sufficient condition for the reality of a physical quantity is the possibility of predicting it with certainty, without disturbing the system. In quantum mechanics in the case of two physical quantities described by non-commuting operators, the knowledge of one precludes the knowledge of the other. Then either (1) the description of reality given by the wave function in quantum mechanics is not complete or (2) these two quantities cannot have simultaneous reality. Consideration of the problem of making predictions concerning a system on the basis of measurements made on another system that had previously interacted with it leads to the result that if (1) is false then (2) is also false. One is thus led to conclude that the description of reality as given by a wave function is not complete.},
-  journal={Phys. Rev.},
-  volume={47},
-  issue={10},
-  pages={777--780},
-  numpages={0},
-  year={1935},
-  month={May},
-  publisher=aps,
-  doi={10.1103/PhysRev.47.777},
-  url={http://link.aps.org/doi/10.1103/PhysRev.47.777},
-  html={https://journals.aps.org/pr/abstract/10.1103/PhysRev.47.777},
-  pdf={example_pdf.pdf},
-  altmetric={248277},
-  dimensions={true},
-  selected={true}
-}
-
-@article{einstein1905molekularkinetischen,
-  title={{\"U}ber die von der molekularkinetischen Theorie der W{\"a}rme geforderte Bewegung von in ruhenden Fl{\"u}ssigkeiten suspendierten Teilchen},
-  author={Einstein, A.},
-  journal={Annalen der physik},
-  volume={322},
-  number={8},
-  pages={549--560},
-  year={1905},
-  publisher={Wiley Online Library}
-}
-
-@article{einstein1905movement,
-  abbr={Ann. Phys.},
-  title={Un the movement of small particles suspended in statiunary liquids required by the molecular-kinetic theory 0f heat},
-  author={Einstein, A.},
-  journal={Ann. Phys.},
-  volume={17},
-  pages={549--560},
-  year={1905}
-}
-
-@article{einstein1905electrodynamics,
-  title={On the electrodynamics of moving bodies},
-  author={Einstein, A.},
-  year={1905}
-}
-
-@book{przibram1967letters,
+%%% Book chapter
+@incollection{HOFA2021,
+  author      = {Ringo Baumann and Sylvie Doutre and Jean-Guy Mailly and Johannes Peter Wallner},
+  title       = {Enforcement in formal argumentation},
+  editor      = {Dov Gabbay and Massimiliano Giacomin and Guillermo Simari and Matthias Thimm},
+  booktitle   = {Handbook of Formal Argumentation},
+  publisher   = {College Publications},
+  year        = {2021},
+  pages       = {159--236},
+  chapter     = {8},
   bibtex_show={true},
-  title={Letters on wave mechanics},
-  author={Einstein, Albert and Schrödinger, Erwin and Planck, Max and Lorentz, Hendrik Antoon and Przibram, Karl},
-  year={1967},
-  publisher={Vision},
-  preview={wave-mechanics.gif}
+  abbr={HOFA},
+  pdf={enforcement_ifcolog.pdf},
+  abstract={Within argumentation dynamics, a major strand of research is concerned with how changing an argumentation framework affects the acceptability of arguments, and how to modify an argumentation framework in order to guarantee that some arguments have a given acceptance status. In this chapter, we overview the main approaches for enforcement in formal argumentation. We mainly focus on extension enforcement, i.e., on how to modify an argumenta- tion framework to ensure that a given set of arguments becomes (part of) an extension. We present different forms of extension enforcement defined in the literature, as well as several possibility and impossibility results. The question of minimal change is also considered, i.e., what is the minimal number of modifications that must be made to the argumentation framework for enforcing an extension. Computational complexity and algorithms based on a declarative approach are discussed. Finally, we briefly describe several notions that do not directly fit our definition of extension enforcement, but are closely related.}
 }
+
+%%% International Journal
+@article{JLC2023,
+author = {Jean-Guy Mailly},
+title = {Extension-based Semantics for Incomplete Argumentation Frameworks: Properties, Complexity and Algorithms},
+journal = {Journal of Logic and Computation},
+year = {2023},
+volume = {33},
+number = {2},
+pages = {406--435},
+bibtex_show={true},
+abbr={JLC},
+  selected={true},
+}
+
+@article{argAndComp2022b,
+title = {A tool for merging extensions of abstract argumentation frameworks},
+journal = {Argument {\&} Computation},
+volume = {13},
+number = {3},
+pages = {361--368},
+year = {2022},
+author = {Jérôme Delobelle and Jean-Guy Mailly},
+doi       = {10.3233/AAC-210014},
+bibtex_show={true},
+abbr={ArgComp},
+html={https://content.iospress.com/articles/argument-and-computation/aac210014},
+abstract={We describe a tool that allows the merging of extensions of argumentation frameworks, following the approach defined by (In Proceedings of the Fifteenth International Conference on Principles of Knowledge Representation and Reasoning (KR’16) (2016) 33–42). The tool is implemented in Java, and is highly modular thanks to Object Oriented Programming (OOP) principles. We describe a short experimental study that assesses the scalability of the approach, as well as the impact on runtime of using an integrity constraint.
+In multi-agent systems, merging the beliefs of several agents in order to have a global view of the groups beliefs is an important task [16]. When the agents’ beliefs are expressed through argumentation frameworks [11], there are two options: aggregate the graphs (see e.g. [6,7]), or merge the extensions [8]. Here we present a Java tool that follows this second approach, then allowing the user to reason with the merged beliefs of the group (e.g. for determining whether a given argument is credulously or skeptically accepted w.r.t. the merged beliefs). Notice that the original paper also presents so-called generation operators, that allow to obtain new argumentation frameworks from the merged extensions. This part is not covered by our tool.}
+}
+
+@article{argAndComp2022,
+title = {Yes, no, maybe, I don't know: Complexity and application of abstract argumentation with incomplete knowledge},
+journal = {Argument {\&} Computation},
+volume = {13},
+number = {3},
+pages = {291--324},
+year = {2022},
+author = {Jean-Guy Mailly},
+doi       = {10.3233/AAC-210010},
+bibtex_show={true},
+abbr={ArgComp},
+html={https://content.iospress.com/articles/argument-and-computation/aac210010},
+abstract={Abstract argumentation, as originally defined by Dung, is a model that allows the description of certain information about arguments and relationships between them: in an abstract argumentation framework (AF), the agent knows for sure whether a given argument or attack exists. It means that the absence of an attack between two arguments can be interpreted as “we know that the first argument does not attack the second one”. But the question of uncertainty in abstract argumentation has received much attention in the last years. In this paper, we survey approaches that allow to express information like “There may (or may not) be an attack between these arguments”. We describe the main models that incorporate qualitative uncertainty (or ignorance) in abstract argumentation, as well as some applications of these models. We also highlight some open questions that deserve some attention in the future.},
+}
+
+@article{flap2021,
+  author    = {Ringo Baumann and
+               Sylvie Doutre and
+               Jean-Guy Mailly and
+               Johannes Peter Wallner},
+  title     = {Enforcement in Formal Argumentation},
+  journal   = {IfCoLog Journal of Logics and their Applications},
+  volume    = {8},
+  number    = {6},
+  pages     = {1623--1678},
+  year      = {2021},
+  bibtex_show={true},
+  abbr={FLAP},
+  html={https://hal.science/hal-04239236},
+  abstract={Within argumentation dynamics, a major strand of research is concerned with how changing an argumentation framework affects the acceptability of arguments, and how to modify an argumentation framework in order to guarantee that some arguments have a given acceptance status. In this chapter, we overview the main approaches for enforcement in formal argumentation. We mainly focus on extension enforcement, i.e., on how to modify an argumenta- tion framework to ensure that a given set of arguments becomes (part of) an extension. We present different forms of extension enforcement defined in the literature, as well as several possibility and impossibility results. The question of minimal change is also considered, i.e., what is the minimal number of modifications that must be made to the argumentation framework for enforcing an extension. Computational complexity and algorithms based on a declarative approach are discussed. Finally, we briefly describe several notions that do not directly fit our definition of extension enforcement, but are closely related.
+  Note: This journal article is the early open-access version of the Handbook chapter.}
+}
+
+@article{jaamas2021,
+author = {Yannis Dimopoulos and Jean-Guy Mailly and Pavlos Moraitis},
+title = {Arguing and Negotiating using Incomplete Negotiators Profiles},
+journal = {Autonomous Agents and Multi-Agent Systems},
+volume = {35},
+number = {2},
+doi = {10.1007/s10458-021-09493-y},
+year = {2021},
+bibtex_show={true},
+abbr={JAAMAS},
+abstract={Computational argumentation has taken a predominant place in the modeling of negotiation dialogues over the last years. A competent agent participating in a negotiation process is expected to decide its next move taking into account an, often incomplete, model of its opponent. This work provides a complete computational account of argumentation-based negotiation under incomplete opponent profiles. After the agent identifies its best option, in any state of a negotiation, it looks for suitable arguments that support this option in the theory of its opponent. As the knowledge on the opponent is uncertain, the challenge is to find arguments that, ideally, support the selected option despite the uncertainty. We present a negotiation framework based on these ideas, along with experimental evidence that highlights the advantages of our approach.}
+}
+
+@article{argAndComp2021,
+author = {Julien Rossit and Jean-Guy Mailly and Yannis Dimopoulos and Pavlos Moraitis},
+title = {United We Stand: Accruals in Strength-based Argumentation},
+journal = {Argument {\&} Computation},
+volume = {12},
+number = {1},
+pages = {87--113},
+doi       = {10.3233/AAC-200904},
+year = {2021},
+bibtex_show={true},
+abbr={ArgComp},
+html={https://content.iospress.com/articles/argument-and-computation/aac200904},
+abstract={Argumentation has been an important topic in knowledge representation, reasoning and multi-agent systems during the last twenty years. In this paper, we propose a new abstract framework where arguments are associated with a strength, namely a quantitative information which is used to determine whether an attack between arguments succeeds or not. Our Strength-based Argumentation Framework (StrAF) combines ideas of Preference-based and Weighted Argumentation Frameworks in an original way, which permits to define acceptability semantics sensitive to the existence of accruals between arguments. The question of accruals arises in situations where several arguments defending the same position (but from different points of view) against another argument are unable to individually defeat this argument, but could do it collectively if they combine their strengths. We investigate some of the theoretical and computational properties of our new framework and semantics, and present a reasoning algorithm that is based on a translation of the problem into pseudo-boolean constraint satisfaction. This paper proposes an intuitive framework which allows strength compensations in an argumentation context where attacks may not succeed, completed by an approach which detects accruals throughout the reasoning process without requiring the elicitation of all compensatory combinations of arguments as an input.}
+}
+
+@article{argAndComp2019,
+author = {Jean-Guy Mailly and Marco Maratea},
+title = {Assessment of benchmarks for abstract argumentation},
+journal = {Argument {\&} Computation},
+volume = {10},
+number = {2},
+pages = {107--112},
+year = {2019},
+url = {https://doi.org/10.3233/AAC-192101},
+doi = {10.3233/AAC-192101 },
+bibtex_show={true},
+abbr={ArgComp},
+html={https://content.iospress.com/articles/argument-and-computation/aac192101},
+abstract={In this paper, we provide an overview of the benchmarks that have been recently employed in Abstract Argumentation. We first describe the benchmark suite from previous editions of the International Competition of Computational Models of Argumentation (ICCMA), and then briefly describe the benchmarks for non-Dung frameworks. This article is a contribution to the new Argument & Computation Community Resources (ACCR) corner.}
+}
+
+@article{argAndComp2018,
+ author    = {Sylvie Doutre and
+               Jean-Guy Mailly},
+  title     = {Constraints and changes: {A} survey of abstract argumentation dynamics},
+  journal   = {Argument {\&} Computation},
+  volume    = {9},
+  number    = {3},
+  pages     = {223--248},
+  year      = {2018},
+  url       = {https://doi.org/10.3233/AAC-180425},
+  doi       = {10.3233/AAC-180425},
+bibtex_show={true},
+abbr={ArgComp},
+html={https://content.iospress.com/articles/argument-and-computation/aac180425},
+abstract={This paper addresses the issue of the dynamic enforcement of a constraint in an argumentation system. The system consists in (1) an argumentation framework, made up, notably, of a set of arguments and of an attack relation, (2) an evaluation semantics, and (3) the evaluation result, computed from (1) and (2). An agent may want another agent to consider a new attack, or to have a given argument accepted, or even to relax the definition of the semantics. A constraint on any of the three components is thus defined, and it has to be enforced in the system. The enforcement may result in changes on components of the system. The paper surveys existing approaches for the dynamic enforcement of a constraint and its consequences, and reveals challenging enforcement cases that remain to be investigated.}
+}
+
+
+
+%%% International Conferences
+@InProceedings{ecsqaru2023a,
+title = {Revisiting Approximate Reasoning based on Grounded Semantics},
+booktitle = {Seventeenth {E}uropean {C}onference on {S}ymbolic and {Q}uantitative {A}pproaches to {R}easoning with {U}ncertainty ({ECSQARU} 2023)},
+author = {Jérôme Delobelle and Jean-Guy Mailly and Julien Rossit},
+year = {2023},
+ bibtex_show={true},
+abbr={ECSQARU},
+  selected={true},
+}
+
+@InProceedings{ecsqaru2023b,
+title = {Extension-based Semantics for Incomplete Argumentation Frameworks: Grounded Semantics and Principles},
+booktitle = {Seventeenth {E}uropean {C}onference on {S}ymbolic and {Q}uantitative {A}pproaches to {R}easoning with {U}ncertainty ({ECSQARU} 2023)},
+author = {Jean-Guy Mailly},
+year = {2023},
+bibtex_show={true},
+abbr={ECSQARU},
+selected={true},
+html={https://hal.science/hal-04213800v1},
+abstract={Incomplete Argumentation Frameworks (IAFs) enrich classical abstract argumentation with arguments and attacks whose actual existence is questionable. The usual reasoning approaches rely on the notion of completion, i.e. standard AFs representing "possible worlds" compatible with the uncertain information encoded in the IAF. Recently, extension-based semantics for IAFs that do not rely on the notion of completion have been defined, using instead new versions of conflict-freeness and defense that take into account the (certain or uncertain) nature of arguments and attacks. In this paper, we give new insights on this reasoning approach, by adapting the well-known grounded semantics to this framework in two different versions. After determining the computational complexity of our new semantics, we provide a principle-based analysis of these semantics, as well as the ones previously defined in the literature, namely the complete, preferred and stable semantics.}
+}
+
+@InProceedings{clar2023,
+title = {A Logical Encoding for k-m-Realization of Extensions in Abstract Argumentation},
+booktitle = {Fifth {I}nternational {C}onference on {L}ogic and {A}rgumentation ({CLAR} 2023)},
+author = {Jean-Guy Mailly},
+year = {2023},
+bibtex_show={true},
+abbr={CLAR},
+selected={true},
+html={https://hal.science/hal-04213461v1},
+abstract={We study the notion of realization of extensions in abstract argumentation. It consists in reversing the usual reasoning process: instead of computing the extensions of an argumentation framework, we want to determine whether a given set of extensions corresponds to some (set of) argumentation framework(s) (AFs); and more importantly we want to identify such an AF (or set of AFs) that realizes the set of extensions. While deep theoretical studies have been concerned with realizability of extensions sets, there are few computational approaches for solving this problem. In this paper, we generalize the concept of realizability by introducing two parameters: the number k of auxiliary arguments (i.e. those that do not appear in any extension), and the number m of AFs in the result. We define a translation of k-m-realizability into Quantified Boolean Formulas (QBFs) solving. We also show that our method allows to guarantee that the result of the realization is as close as possible to some input AF. Our method can be applied in the context of AF revision operators, where revised extensions must be mapped to a set of AFs while ensuring some notion of proximity with the initial AF.}
+}
+
+@inproceedings{sum22,
+  author    = {Jean-Guy Mailly},
+  title     = {On Incompleteness in Abstract Argumentation: Complexity and Expressiveness},
+  booktitle = {15th International Conference on Scalable Uncertainty Management ({SUM} 2022)},
+  pages     = {19--33},
+  year      = {2022},
+  doi       = {10.1007/978-3-031-18843-5\_2},
+  bibtex_show={true},
+  abbr={SUM},
+}
+
+@InProceedings{comma2022,
+title = {Admissibility in Strength-based Argumentation: Complexity and Algorithms},
+booktitle = {9th International Conference on Computational Models of Argument ({COMMA} 2022)},
+author = {Yohann Bacquey and Jean-Guy Mailly and Pavlos Moraitis and Julien Rossit},
+year = {2022},
+pages     = {44--55},
+bibtex_show={true},
+abbr={COMMA},
+html={https://ebooks.iospress.nl/doi/10.3233/FAIA220140},
+abstract={Recently, Strength-based Argumentation Frameworks (StrAFs) have been proposed to model situations where some quantitative strength is associated with arguments. In this setting, the notion of accrual corresponds to sets of arguments that collectively attack an argument. Some semantics have already been defined, which are sensitive to the existence of accruals that collectively defeat their target, while their individual elements cannot. However, until now, only the surface of this framework and semantics have been studied. Indeed, the existing literature focuses on the adaptation of the stable semantics to StrAFs. In this paper, we push forward the study and investigate the adaptation of admissibility-based semantics. Especially, we show that the strong admissibility defined in the literature does not satisfy a desirable property, namely Dung’s fundamental lemma. We therefore propose an alternative definition that induces semantics that behave as expected. We then study computational issues for these new semantics, in particular we show that complexity of reasoning is similar to the complexity of the corresponding decision problems for standard argumentation frameworks in almost all cases. We then propose a translation in pseudo-Boolean constraints for computing (strong and weak) extensions. We conclude with an experimental evaluation of our approach which shows in particular that it scales up well for solving the problem of providing one extension as well as enumerating them all.}
+}
+
+
+@InProceedings{clar2021,
+title = {Extension-based Semantics for Incomplete Argumentation Frameworks},
+booktitle = {Fourth {I}nternational {C}onference on {L}ogic and {A}rgumentation ({CLAR} 2021)},
+author = {Jean-Guy Mailly},
+year = {2021},
+ bibtex_show={true},
+  abbr={CLAR},
+}
+
+@InProceedings{ecsqaru2021,
+title = {Constrained Incomplete Argumentation Frameworks},
+booktitle = {Sixteenth {E}uropean {C}onference on {S}ymbolic and {Q}uantitative {A}pproaches to {R}easoning with {U}ncertainty ({ECSQARU} 2021)},
+author = {Jean-Guy Mailly},
+year = {2021},
+ bibtex_show={true},
+ abbr={ECSQARU},
+}
+
+@InProceedings{aamas2021,
+title = {Probabilistic Control Argumentation Frameworks},
+booktitle = {20th {I}nternational {C}onference on {A}utonomous {A}gents and {M}ultiagent {S}ystems ({AAMAS} 2021)},
+author = {Fabrice Gaigner and Yannis Dimopoulos and Jean-Guy Mailly and Pavlos Moraitis},
+year = {2021},
+pages = {519--527},
+bibtex_show={true},
+abbr={AAMAS},
+html={https://www.ifaamas.org/Proceedings/aamas2021/pdfs/p519.pdf},
+abstract={In this paper we present Probabilistic Control Argumentation Frame- works (PCAFs) that extend classical Control Argumentation Frame- works (CAFs) to take into account probabilistic information in the reasoning process. We show that probabilities can be used to optimally control CAFs that cannot be controlled otherwise. We introduce the notion of controlling power, that represents the prob- ability that a control configuration reaches its target. A computa- tional method based on Monte Carlo simulations for computing the controlling power of control configurations is defined. We experimentally show that PCAFs outperform w.r.t runtime classical CAFs and in a large number of situations they can reach the target with a high probability while the classical CAFs fail.}
+}
+
+@InProceedings{comma2020,
+title = {Possible Controllability of Control Argumentation Frameworks},
+booktitle = {8th {I}nternational {C}onference on {C}omputational {M}odels of {A}rgument ({COMMA} 2020)},
+author = {Jean-Guy Mailly},
+year = {2020},
+pages     = {283--294},
+bibtex_show={true},
+abbr={COMMA},
+html={https://ebooks.iospress.nl/publication/55378},
+abstract={The recent Control Argumentation Framework (CAF) is a generalization of Dung’s Argumentation Framework which handles argumentation dynamics under uncertainty; especially it can be used to model the behavior of an agent which can anticipate future changes in the environment. Here we provide new insights on this model by defining the notion of possible controllability of a CAF. We study the complexity of this new form of reasoning for the four classical semantics, and we provide a logical encoding for reasoning with this framework.}
+}
+
+@InProceedings{kr2020,
+title = {Argument, {I} Choose You! {P}references and Ranking Semantics in Abstract Argumentation},
+booktitle = {17th {I}nternational {C}onference on {P}rinciples of {K}nowledge {R}epresentation and {R}easoning ({KR} 2020)},
+author = {Jean-Guy Mailly and Julien Rossit},
+year = {2020},
+pages = {647--651},
+bibtex_show={true},
+abbr={KR},
+html={https://proceedings.kr.org/2020/64/},
+abstract={Preference-based argumentation and ranking semantics are two important research topics in the computational argumentation literature. Surprisingly, no study investigates to what extent preferences over arguments and ranking semantics can interact. This paper fills the gap between the relative priorities that one can express and the evaluation of arguments individual acceptability. More precisely, we propose a natural principle that should be satisfied by a ranking semantics for Preference-based Argumentation Frameworks. We show that although existing semantics do not satisfy this desirable principle, they can be used to define new ranking semantics that exhibit the expected behavior. Finally, we discuss an application of these semantics to the modeling of human reasoning.}
+}
+
+
+@InProceedings{aamas2019,
+title = {Argumentation-based Negotiation with Incomplete Opponent Profiles},
+booktitle = {18th {I}nternational {C}onference on {A}utonomous {A}gents and {M}ultiagent {S}ystems ({AAMAS} 2019)},
+author = {Yannis Dimopoulos and Jean-Guy Mailly and Pavlos Moraitis},
+year = {2019},
+pages = {1252--1260},
+bibtex_show={true},
+abbr={AAMAS},
+html={https://dl.acm.org/doi/10.5555/3306127.3331829},
+abstract={Computational argumentation has taken a predominant place in the modeling of negotiation dialogues over the last years. A competent agent participating in a negotiation process is expected to decide its next move taking into account an, often incomplete, model of its opponent. This work provides a complete computational account of argumentation-based negotiation under incomplete opponent profiles. After the agent identifies its best option, in any state of a negotiation, it looks for suitable arguments that support this option in the theory of its opponent. As the knowledge on the opponent is uncertain, the challenge is to find arguments that, ideally, support the selected option despite the uncertainty. We present a negotiation framework based on these ideas, along with experimental evidence that highlights the advantages of our approach.}
+}
+
+@InProceedings{aaai2018,
+title = {Control Argumentation Frameworks},
+booktitle = {32nd {AAAI} {C}onference on {A}rtificial {I}ntelligence ({AAAI} 2018)},
+author = {Yannis Dimopoulos and Jean-Guy Mailly and Pavlos Moraitis},
+year = {2018},
+bibtex_show={true},
+abbr={AAAI},
+html={https://ojs.aaai.org/index.php/AAAI/article/view/11583},
+abstract={Dynamics of argumentation is the family of techniques concerned with the evolution of an argumentation framework (AF), for instance to guarantee that a given set of arguments is accepted. This work proposes Control Argumentation Frameworks (CAFs), a new approach that generalizes existing techniques, namely normal extension enforcement, by accommodating the possibility of uncertainty in dynamic scenarios. A CAF is able to deal with situations where the exact set of arguments is unknown and subject to evolution, and the existence (or direction) of some attacks is also unknown. It can be used by an agent to ensure that a set of arguments is part of one (or every) extension whatever the actual set of arguments and attacks. A QBF encoding of reasoning with CAFs provides a computational mechanism for determining whether and how this goal can be reached. We also provide some results concerning soundness and completeness of the proposed encoding as well as complexity issues.}
+}
+
+@InProceedings{eumas2017,
+title = {Comparison Criteria for Argumentation Semantics},
+booktitle = {15th {E}uropean {C}onference on {M}ulti-{A}gent {S}ystems ({EUMAS} 2017)},
+author = {Sylvie Doutre and Jean-Guy Mailly},
+year = {2017},
+bibtex_show={true},
+abbr={EUMAS},
+html={https://hal.science/hal-02649413},
+abstract={Argumentation reasoning is a way for agents to evaluate a situation. Given a framework made of conflicting arguments, a semantics allows to evaluate the acceptability of the arguments. It may happen that the semantics associated to the framework has to be changed. In order to perform the most suitable change, the current and a potential new semantics have to be compared. Notions of difference measures between semantics have already been proposed, and application cases where they have to be minimized when a change of semantics has to be performed, have been highlighted. This paper develops these notions, it proposes an additional kind of difference measure, and shows application cases where measures may have to be maximized, and combined.}
+}
+
+@InProceedings{sum2017,
+title = {Semantic Change and Extension Enforcement in Abstract Argumentation},
+booktitle = {11th {I}nternational {C}onference on {S}calable {U}ncertainty {M}anagement ({SUM} 2017)},
+author = {Sylvie Doutre and Jean-Guy Mailly},
+year = {2017},
+bibtex_show={true},
+abbr={SUM},
+html={https://hal.science/hal-01887892},
+abstract={Change in argumentation frameworks has been widely studied in the recent years. Most of the existing works on this topic are concerned with change of the structure of the argumentation graph (addition or removal of arguments and attacks), or change of the outcome of the framework (acceptance statuses of arguments). Change on the acceptability semantics that is used in the framework has not received much attention so far. Such a change can be motivated by different reasons, especially it is a way to change the outcome of the framework. In this paper, it is shown how semantic change can be used as a way to reach a goal about acceptance statuses in a situation of extension enforcement.}
+}
+
+@InProceedings{comma2016,
+title = {Quantifying the Difference between Argumentation Semantics},
+booktitle = {6th {I}nternational {C}onference on {C}omputational {M}odels of {A}rgument ({COMMA} 2016)},
+author = {Sylvie Doutre and Jean-Guy Mailly},
+year = {2016},
+pages = {255--262},
+bibtex_show={true},
+abbr={COMMA},
+html={https://ebooks.iospress.nl/publication/45265},
+abstract={Properties of argumentation semantics have been widely studied in the last decades. However, there has been no investigation on the question of difference measures between semantics. Such measures turn helpful when the semantics associated to an argumentation framework may have to be changed, in a way that ensures that the new semantics is not too dissimilar from the old one. Three main notions of difference measures between semantics are defined in this paper. Some of these measures are shown to be distances or semi-distances.}
+}
+
+@InProceedings{ecai2016,
+title = {Translation-Based Revision and Merging for Minimal Horn Reasoning},
+booktitle = {22nd {E}uropean {C}onference on {A}rtificial {I}ntelligence ({ECAI} 2016)},
+author = {Gerhard Brewka and Jean-Guy Mailly and Stefan Woltran},
+year = {2016},
+pages = {734--742},
+bibtex_show={true},
+abbr={ECAI},
+html={https://ebooks.iospress.nl/publication/44820},
+abstract={In this paper we introduce a new approach for revising and merging consistent Horn formulae under minimal model semantics. Our approach is translation-based in the following sense: we generate a propositional encoding capturing both the syntax of the original Horn formulae (the clauses which appear or not in them) and their semantics (their minimal models). We can then use any classical revision or merging operator to perform belief change on the encoding. The resulting propositional theory is then translated back into a Horn formula. We identify some specific operators which guarantee a particular kind of minimal change. A unique feature of our approach is that it allows us to control whether minimality of change primarily relates to the syntax or to the minimal model semantics of the Horn formula. We give an axiomatic characterization of minimal change on the minimal model for this new setting, and we show that some specific translation-based revision and merging operators satisfy our postulates.}
+}
+
+@InProceedings{ijcai2016,
+title = {Distributing Knowledge into Simple Bases},
+booktitle = {25th {I}nternational {J}oint {C}onference on {A}rtificial {I}ntelligence ({IJCAI} 2016)},
+author = {Adrian Haret and Jean-Guy Mailly and Stefan Woltran},
+year = {2016},
+pages = {1109--1115},
+bibtex_show={true},
+abbr={IJCAI},
+html={https://www.ijcai.org/Abstract/16/161},
+abstract={Understanding the behavior of belief change operators for fragments of classical logic has received increasing interest over the last years. Results in this direction are mainly concerned with adapting representation theorems. However, fragment-driven belief change also leads to novel research questions. In this paper we propose the concept of belief distribution, which can be understood as the reverse task of merging. More specifically, we are interested in the following question: given an arbitrary knowledge base K and some merging operator Δ, can we find a profile E and a constraint μ, both from a given fragment of classical logic, such that Δμ(E) yields a result equivalent to K? In other words, we are interested in seeing if K can be distributed into knowledge bases of simpler structure, such that the task of merging allows for a reconstruction of the original knowledge. Our initial results show that merging based on drastic distance allows for an easy distribution of knowledge, while the power of distribution for operators based on Hamming distance relies heavily on the fragment of choice.}
+}
+
+
+@inproceedings{kr2016,
+ author = {J\'er\^ome Delobelle and Adrian Haret and S\'ebastien Konieczny and Jean-Guy Mailly and Julien Rossit and Stefan Woltran},
+ title = {Merging of Abstract Argumentation Frameworks},
+ booktitle = {15th {I}nternational {C}onference on {P}rinciples of {K}nowledge {R}epresentation and {R}easoning ({KR} 2016)},
+ year = {2016},
+ pages = {33--42},
+bibtex_show={true},
+abbr={KR},
+html={https://aaai.org/papers/5-merging-of-abstract-argumentation-frameworks/},
+abstract={Formalizing dynamics of argumentation has received increasing attention over the last years. While AGM- like representation results for revision of argumentation frameworks (AFs) are now available, similar results for the problem of merging are still missing. In this paper, we close this gap and adapt model-based propositional belief merging to define extension-based merging oper- ators for AFs. We state an axiomatic and a constructive characterization of merging operators through a fam- ily of rationality postulates and a representation theo- rem. Then we exhibit merging operators which satisfy the postulates. In contrast to the case of revision, we observe that obtaining a single framework as result of merging turns out to be a more subtle issue. Finally, we establish links between our new results and previous ap- proaches to merging of AFs, which mainly relied on ax- ioms from Social Choice Theory, but lacked AGM-like representation theorems.}
+}
+
+@inproceedings{ictai2015,
+ author = {Jean-Marie Lagniez and Emmanuel Lonca and Jean-Guy Mailly},
+ title = {{CoQuiAAS}: A {C}onstraint-based {Q}uick {A}bstract {A}rgumentation {S}olver},
+ booktitle = {27th {IEEE} {I}nternational {C}onference on {T}ools with {A}rtificial {I}ntelligence ({ICTAI} 2015)},
+ pages = {928--935},
+ year = {2015},
+bibtex_show={true},
+preview = {coquiaas.png},
+pdf={coquiaas_ictai15.pdf},
+abstract={Nowadays, argumentation is a salient keyword in artificial intelligence. The use of argumentation techniques is par- ticularly convenient for thematics such that multiagent systems, where it allows to describe dialog protocols (using persuasion, negotiation, ...) or on-line discussion analysis; it also allows to handle queries where a single agent has to reason with conflicting information (inference in the presence of inconsistency, inconsistency measure). This very rich framework gives numerous reasoning tools, thanks to several acceptability semantics and inference policies.
+On the other hand, the progress of SAT solvers in the recent years, and more generally the progress on Constraint Programming paradigms, lead to some powerful approaches that permit tackling theoretically hard problems.
+The needs of efficient applications to solve the usual reasoning tasks in argumentation, together with the capabilities of modern Constraint Programming solvers, lead us to study the encoding of usual acceptability semantics into logical settings. We propose diverse use of Constraint Programming techniques to develop a software library dedicated to argumentative reasoning. We present a library which offers the advantages to be generic and easily adaptable. We finally describe an experimental study of our approach for a set of semantics and inference tasks, and we describe the behaviour of our solver during the First International Competition on Computational Models of Argumentation.}
+}
+
+@InProceedings{ijcai2015,
+title = {Extension Enforcement in Abstract Argumentation as an Optimization Problem},
+booktitle = {24th {I}nternational {J}oint {C}onference on {A}rtificial {I}ntelligence ({IJCAI} 2015)},
+author = {Coste-Marquis, Sylvie and Konieczny, S\'ebastien and Mailly, Jean-Guy and Marquis, Pierre},
+year = {2015},
+pages = {2876--2882},
+bibtex_show={true},
+abbr={IJCAI},
+html={https://www.ijcai.org/Abstract/15/407},
+abstract={Change in abstract argumentation frameworks (AFs) is a very active topic. Especially, the problem of enforcing a set E of arguments, i.e., ensuring that E is an extension (or a subset of an extension) of a given AF F, has received a particular attention in the recent years. In this paper, we define a new family of enforcement operators, for which enforcement can be achieved by adding new arguments (and attacks) to F (as in previous approaches to enforcement), but also by questioning some attacks (and non-attacks) of F. This family includes previous enforcement operators, but also new ones for which the success of the enforcement operation is guaranteed. We show how the enforcement problem for the operators of the family can be modeled as a pseudo-Boolean optimization problem. Intensive experiments show that the method is practical and that it scales up well.}
+}
+
+@InProceedings{jelia2014,
+title = {A Translation-based Approach for Revision of Argumentation Frameworks},
+booktitle = {14th {E}uropean {C}onference on {L}ogics in {A}rtificial {I}ntelligence ({JELIA} 2014)},
+pages = {77--85},
+author = {Coste-Marquis, Sylvie and Konieczny, S\'ebastien and Mailly, Jean-Guy and Marquis, Pierre},
+year = {2014},
+bibtex_show={true},
+abbr={JELIA},
+pdf={translation_based_revision.pdf},
+abstract={In this paper, we investigate the revision issue for Dung ar- gumentation frameworks. The main idea is that such frameworks can be translated into propositional formulae, allowing the use of propositional revision operators to perform a rational minimal change. Our translation- based approach to revising argumentation frameworks can take advan- tage of any propositional revision operator ◦. Via a translation, each propositional operator ◦ can be associated with some revision operators ⋆ suited to argumentation frameworks. Some rationality postulates for the ⋆ operators are presented. If the revision formulae are restricted to formulae about acceptance statuses, some ⋆ operators satisfy these pos- tulates provided that the corresponding ◦ operator is AGM.}
+}
+
+@InProceedings{kr2014,
+title = {On the Revision of Argumentation Systems: Minimal Change of Arguments Statuses},
+booktitle = {14th {I}nternational {C}onference on {P}rinciples of {K}nowledge {R}epresentation and {R}easoning ({KR} 2014)},
+author = {Coste-Marquis, Sylvie and Konieczny, S\'ebastien and Mailly, Jean-Guy and Marquis, Pierre},
+year = {2014},
+pages = {52--61},
+bibtex_show={true},
+abbr={KR},
+pdf={revision_kr_2014.pdf},
+abstract={In this paper, we investigate the revision of argumenta- tion systems a` la Dung. We focus on revision as mini- mal change of the arguments status. Contrarily to most of the previous works on the topic, the addition of new arguments is not allowed in the revision process, so that the revised system has to be obtained by modify- ing the attack relation only. We introduce a language of revision formulae which is expressive enough for en- abling the representation of complex conditions on the acceptability of arguments in the revised system. We show how AGM belief revision postulates can be trans- lated to the case of argumentation systems. We pro- vide a corresponding representation theorem in terms of minimal change of the arguments statuses. Several distance-based revision operators satisfying the postu- lates are also pointed out, along with some methods to build revised argumentation systems. We also discuss some computational aspects of those methods.}
+}
+
+
+%%% International Workshops
+@InProceedings{argapp2023a,
+title = {A New Evolutive Generator for Graphs with Communities and its Application to Abstract Argumentation},
+booktitle = {First {I}nternational {W}orkshop on {A}rgumentation and {A}pplications ({Arg\&App} 2023)},
+author = {Jean-Marie Lagniez and Emmanuel Lonca and Jean-Guy Mailly and Julien Rossit},
+year = {2023},
+series       = {{CEUR} Workshop Proceedings},
+volume       = {3472},
+pages        = {52--64},
+bibtex_show={true},
+abbr={ArgApp},
+html={https://hal.science/hal-04213767v1},
+abstract={Graph generators are a powerful tool to provide benchmarks for various sub elds of KR (e.g. abstract argumentation, description logics, etc.) as well as other domains of AI (e.g. resources allocation, gossip problem, etc.). In this paper, we describe a new approach for generating graphs based on the idea of communities, i.e. parts of the graph which are densely connected, but with fewer connections between di erent communities. We discuss the design of an application named crusti_g2io implementing this idea, and then focus on a use case related to abstract argumentation. We show how crusti_g2io can be used to generate structured hard argumentation instances which are challenging for the fourth International Competition on Computational Models of Argumentation (ICCMA'21) solvers.}
+}
+
+@InProceedings{argapp2023b,
+title = {Abstract Argumentation Applied to Fair Resources Allocation: A Preliminary Study},
+booktitle = {First {I}nternational {W}orkshop on {A}rgumentation and {A}pplications ({Arg\&App} 2023)},
+author = {Jean-Guy Mailly},
+year = {2023},
+series       = {{CEUR} Workshop Proceedings},
+volume       = {3472},
+pages        = {85--91},
+bibtex_show={true},
+abbr={ArgApp},
+html={https://ceur-ws.org/Vol-3472/short2.pdf},
+abstract={In this paper, we discuss the application of abstract argumentation mechanisms to resources allocation. We show how such problems can be modeled as abstract argumentation frameworks, such that specific sets of arguments corresponds to interesting solutions of the problem. By interesting solutions, here we mean Local Envy-Free (LEF) allocations. Envy-freeness is an important notion of fairness in resources allocation, assuming than no agent should prefer the resource allocated to another agent. We focus on LEF, a generalized form of envy-freeness, and we show that LEF allocations corresponds to some specific sets of arguments in our argument-based modeling of the problem. This work in progress paves the way to richer connections between the various models of argumentation and resources allocation problems.},
+}
+
+@InProceedings{safa2020a,
+title = {On the Impact of {SAT} Solvers on Argumentation Solvers},
+booktitle = {3rd {I}nternational {W}orkshop on {S}ystems and {A}lgorithms for {F}ormal {A}rgumentation ({SAFA} 2020)},
+author = {Serigne Gning and Jean-Guy Mailly},
+year = {2020},
+bibtex_show={true},
+abbr={SAFA},
+html={https://ceur-ws.org/Vol-2672/paper_7.pdf},
+abstract={SAT-based approaches for reasoning with abstract argumen- tation frameworks (AFs) have been dominating in recent years. Dif- ferent SAT solvers have been used in the argumentation solvers that performed well at the different occurrences of the International Com- petition on Computational Models of Argumentation (ICCMA). Based on this observation, the question of the impact of the underlying SAT solver on the efficiency of the argumentation solver has arisen. We have conducted a preliminary study that shows varied results when the SAT solvers Minisat and Glucose are used. Our results suggest interesting research tracks, like the study of the link between the AF instances and the SAT solving algorithms, or the use of a portfolio of SAT solvers for reasoning with AFs.}
+}
+
+@InProceedings{safa2020b,
+title = {Introducing the {F}ourth {I}nternational {C}ompetition on {C}omputational {M}odels of {A}rgumentation},
+booktitle = {3rd {I}nternational {W}orkshop on {S}ystems and {A}lgorithms for {F}ormal {A}rgumentation ({SAFA} 2020)},
+author = {Jean Marie Lagniez and Emmanuel Lonca and Jean-Guy Mailly and Julien Rossit},
+year = {2020},
+bibtex_show={true},
+abbr={SAFA},
+html={https://ceur-ws.org/Vol-2672/paper_9.pdf},
+abstract={Since 2015, the International Competition on Computational Models of Argumentation (ICCMA) has allowed to compare the differ- ent algorithms for solving some classical reasoning problems in the do- main of (abstract) argumentation. In this paper, we describe the rules of the fourth ICCMA, that will be held in 2021. We introduce some minor modifications regarding the existing tracks (i.e. reasoning with static and dynamic abstract argumentation). Also, for the first time, we present a new track dedicated to structured argumentation, more precisely Assumption-based Argumentation.}
+}
+
+@InProceedings{nmr2020,
+title = {Stability in {A}bstract {A}rgumentation},
+booktitle = {18th {I}nternational {W}orkshop on {N}on-{M}onotonic {R}easoning ({NMR} 2020)},
+author = {Jean-Guy Mailly and Julien Rossit},
+year = {2020},
+bibtex_show={true},
+abbr={NMR},
+html={https://arxiv.org/abs/2012.12588},
+abstract={The notion of stability in a structured argumentation setup characterizes situations where the acceptance status associated with a given literal will not be impacted by any future evolution of this setup. In this paper, we abstract away from the logical structure of arguments, and we transpose this notion of stability to the context of Dungean argumentation frameworks. In particular, we show how this problem can be translated into reasoning with Argument-Incomplete AFs. Then we provide preliminary complexity results for stability under four prominent semantics, in the case of both credulous and skeptical reasoning. Finally, we illustrate to what extent this notion can be useful with an application to argument-based negotiation.}
+}
+
+@InProceedings{krRPR2020,
+author = {Julien Rossit and Jean-Guy Mailly and Yannis Dimopoulos and Pavlos Moraitis},
+title = {United We Stand: Accruals in Strength-based Argumentation (Extended Abstract)},
+booktitle = {Recently {P}ublished {R}esearch {T}rack, 17th {I}nternational {C}onference on {P}rinciples of {K}nowledge {R}epresentation and {R}easoning ({KR} 2020)},
+year = {2020},
+bibtex_show={true},
+abbr={KR},
+}
+
+@misc{iccma2019,
+author = {Jean-Marie Lagniez and Emmanuel Lonca and Jean-Guy Mailly},
+title = {{CoQuiAAS v3.0}: {ICCMA} 2019 {S}olver {D}escription},
+howpublished = {3rd {I}nternational {C}ompetition on {C}omputational {M}odels of {A}rgumentation ({ICCMA} 2019)},
+year = {2019},
+bibtex_show={true},
+  preview = {coquiaas.png}
+}
+
+@misc{iccma2017,
+author = {Jean-Marie Lagniez and Emmanuel Lonca and Jean-Guy Mailly},
+title = {{CoQuiAAS v2.0}: Taking Benefit from Constraint Programming to Solve Argumentation Problems},
+howpublished = {2nd {I}nternational {C}ompetition on {C}omputational {M}odels of {A}rgumentation ({ICCMA} 2017)},
+year = {2017},
+bibtex_show={true},
+ preview = {coquiaas.png}
+}
+
+@InProceedings{nmr2016a,
+title = {Distributing Knowledge into Simple Bases},
+booktitle = {16th {I}nternational {W}orkshop on {N}on-{M}onotonic {R}easoning ({NMR} 2016)},
+author = {Adrian Haret and Jean-Guy Mailly and Stefan Woltran},
+year = {2016},
+bibtex_show={true},
+abbr={NMR},
+}
+
+@InProceedings{nmr2016b,
+title = {Using {E}nthymemes to {F}ill the {G}ap between {L}ogical {A}rgumentation and {R}evision of {A}bstract {A}rgumentation {F}rameworks},
+booktitle = {16th {I}nternational {W}orkshop on {N}on-{M}onotonic {R}easoning ({NMR} 2016)},
+author = {Jean-Guy Mailly},
+year = {2016},
+abbr={NMR},
+bibtex_show={true},
+}
+
+@misc{iccma2015,
+author = {Jean-Marie Lagniez and Emmanuel Lonca and Jean-Guy Mailly},
+title = {{CoQuiAAS}: {A}pplication of {C}onstraint {P}rogramming for {A}bstract {A}rgumentation},
+howpublished = {1st {I}nternational {C}ompetition on {C}omputational {M}odels of {A}rgumentation ({ICCMA} 2015)},
+year = {2015},
+bibtex_show={true},
+  preview = {coquiaas.png}
+}
+
+@InProceedings{ijcaiDC2013,
+title = {Dynamic of {A}rgumentation {F}rameworks},
+booktitle = {Doctoral {C}onsortium of the 23rd {I}nternational {J}oint {C}onference on {A}rtificial {I}ntelligence ({IJCAI DC} 2013)},
+publisher = {AAAI Press / International Joint Conferences on Artificial Intelligence},
+author = {Mailly, Jean-Guy},
+year = {2013},
+bibtex_show={true},
+abbr={IJCAI},
+}
+
+
+@InProceedings{tafa2013,
+title = {On the Revision of Argumentation Systems: Minimal Change of Arguments Status},
+booktitle = {2nd {I}nternational {W}orkshop on {T}heory and {A}pplications of {F}ormal {A}rgumentation ({TAFA} 2013)},
+author = {Coste-Marquis, Sylvie and Konieczny, S\'ebastien and Mailly, Jean-Guy and Marquis, Pierre},
+year = {2013},
+note = {Workshop at {IJCAI} 2013},
+bibtex_show={true},
+}
+
+
+@misc{acai2013,
+author = {Jean-Guy Mailly},
+title = {Revising {A}rgumentation {S}ystems: {A}rgument {S}tatus Versus {G}raph {M}inimization},
+howpublished = {ACAI Summer School 2013, Student Session (ACAI 2013)},
+year = {2013},
+bibtex_show={true},
+}
+
+%%% National Conferences
+@InProceedings{iaf2023a,
+title = {A New Evolutive Generator for Graphs with Communities and its Application to Abstract Argumentation},
+booktitle = {17\`emes {J}ourn\'ees d'{I}ntelligence {A}rtificielle {F}ondamentale ({IAF} 2023)},
+author = {Jean-Marie Lagniez and Emmanuel Lonca and Jean-Guy Mailly and Julien Rossit},
+year = {2023},
+bibtex_show={true},
+abbr={JIAF},
+  html={https://hal.science/hal-04213767v1},
+}
+
+@InProceedings{iaf2023b,
+title = {Similarity Measures between Order-Sorted Logical Arguments},
+booktitle = {17\`emes {J}ourn\'ees d'{I}ntelligence {A}rtificielle {F}ondamentale ({IAF} 2023)},
+author = {Victor David and Jérôme Delobelle and Jean-Guy Mailly},
+year = {2023},
+bibtex_show={true},
+abbr={JIAF},
+}
+
+@InProceedings{iaf2022a,
+title = {Quelques réflexions autour de la notion de bêtise artificielle},
+booktitle = {16\`emes {J}ourn\'ees d'{I}ntelligence {A}rtificielle {F}ondamentale ({IAF} 2022)},
+author = {Jean Lieber and Jean-Guy Mailly and Pierre Marquis and Henri Prade and François Rollin},
+year = {2022},
+abbr={JIAF},
+bibtex_show={true},
+html={https://hal.science/hal-03765418v1},
+abstract={Le professeur Rollin a écrit au sujet de la bêtise artificielle. Pouvions-nous rester indifférent à cela ? Cet article montre le contraire.}
+}
+
+@InProceedings{iaf2022b,
+title = {Admissibility in Strength-based Argumentation: Complexity and Algorithms},
+booktitle = {16\`emes {J}ourn\'ees d'{I}ntelligence {A}rtificielle {F}ondamentale ({IAF} 2022)},
+author = {Yohann Bacquey and Jean-Guy Mailly and Pavlos Moraitis and Julien Rossit},
+year = {2022},
+bibtex_show={true},
+abbr={JIAF},
+ html={https://ebooks.iospress.nl/doi/10.3233/FAIA220140},
+}
+
+@InProceedings{iaf2022c,
+title = {Sémantiques à base d’extensions pour les systèmes d’argumentation incomplets},
+booktitle = {16\`emes {J}ourn\'ees d'{I}ntelligence {A}rtificielle {F}ondamentale ({IAF} 2022)},
+author = {Jean-Guy Mailly},
+year = {2022},
+bibtex_show={true},
+abbr={JIAF},
+}
+
+@InProceedings{iaf2021,
+title = {Constrained Incomplete Argumentation Frameworks},
+booktitle = {15\`emes {J}ourn\'ees d'{I}ntelligence {A}rtificielle {F}ondamentale ({IAF} 2021)},
+author = {Jean-Guy Mailly},
+year = {2021},
+bibtex_show={true},
+abbr={JIAF},
+}
+
+@InProceedings{iaf2020,
+title = {United {W}e {S}tand: {A}ccruals in {S}trength-based {A}rgumentation},
+booktitle = {14\`emes {J}ourn\'ees d'{I}ntelligence {A}rtificielle {F}ondamentale ({IAF} 2020)},
+author = {Julien Rossit and Jean-Guy Mailly and Yannis Dimopoulos and Pavlos Moraitis},
+year = {2020},
+bibtex_show={true},
+abbr={JIAF},
+}
+
+@InProceedings{iaf2019,
+title = {Argumentation-based {N}egotiation with {I}ncomplete {O}pponent {P}rofiles},
+booktitle = {13\`emes {J}ourn\'ees d'{I}ntelligence {A}rtificielle {F}ondamentale ({IAF} 2019)},
+author = {Yannis Dimopoulos and Jean-Guy Mailly and Pavlos Moraitis},
+year = {2019},
+bibtex_show={true},
+abbr={JIAF},
+}
+
+@InProceedings{iaf2018,
+title = {Syst\`emes d'argumentation \`a contr\^ole},
+booktitle = {12\`emes {J}ourn\'ees d'{I}ntelligence {A}rtificielle {F}ondamentale ({IAF} 2018)},
+author = {Yannis Dimopoulos and Jean-Guy Mailly and Pavlos Moraitis},
+year = {2018},
+bibtex_show={true},
+abbr={JIAF},
+}
+
+@InProceedings{iaf2017,
+title = {Dynamique des syst\`emes d'argumentation : changement de s\'emantique et for\c{c}age d'extension},
+booktitle = {11\`emes {J}ourn\'ees d'{I}ntelligence {A}rtificielle {F}ondamentale ({IAF} 2017)},
+author = {Doutre, Sylvie and Mailly, Jean-Guy},
+year = {2017},
+bibtex_show={true},
+abbr={JIAF},
+}
+
+@InProceedings{iaf2016,
+title = {How different are two argumentation semantics?},
+booktitle = {10\`emes {J}ourn\'ees d'{I}ntelligence {A}rtificielle {F}ondamentale ({IAF} 2016)},
+author = {Doutre, Sylvie and Mailly, Jean-Guy},
+year = {2016},
+bibtex_show={true},
+abbr={JIAF},
+}
+
+@InProceedings{iaf2015,
+title = {For\c{c}age d'extension en argumentation abstraite par optimisation bool\'eenne},
+booktitle = {9\`emes {J}ourn\'ees d'{I}ntelligence {A}rtificielle {F}ondamentale ({IAF} 2015)},
+author = {Coste-Marquis, Sylvie and Konieczny, S\'ebastien and Mailly, Jean-Guy and Marquis, Pierre},
+year = {2015},
+bibtex_show={true},
+abbr={JIAF},
+}
+
+@InProceedings{jfpc2015,
+title = {{CoQuiAAS} : {A}pplications de la programmation par contraintes \`a l'argumentation abstraite},
+booktitle = {11\`emes {J}ourn\'ees {F}rancophones de la {P}rogrammation par {C}ontraintes ({JFPC} 2015)},
+pages = {77--85},
+author = {Lagniez, Jean-Marie and Lonca, Emmanuel and Mailly, Jean-Guy},
+year = {2015},
+bibtex_show={true},
+preview = {coquiaas.png},
+abbr={JFPC},
+}
+
+@InProceedings{iaf2014,
+title = {Approche par traduction pour la r\'evision de syst\`emes d'argumentation},
+booktitle = {8\`emes {J}ourn\'ees d'{I}ntelligence {A}rtificielle {F}ondamentale ({IAF} 2014)},
+pages = {77--85},
+author = {Coste-Marquis, Sylvie and Konieczny, S\'ebastien and Mailly, Jean-Guy and Marquis, Pierre},
+year = {2014},
+bibtex_show={true},
+abbr={JIAF},
+}
+
+@InProceedings{iaf2013,
+title = {R\'evision de syst\`emes d'argumentation : changement minimal du statut des arguments},
+booktitle = {7\`emes {J}ourn\'ees d'{I}ntelligence {A}rtificielle {F}ondamentale ({IAF} 2013)},
+pages = {107--116},
+author = {Coste-Marquis, Sylvie and Konieczny, S\'ebastien and Mailly, Jean-Guy and Marquis, Pierre},
+year = {2013},
+bibtex_show={true},
+abbr={JIAF},
+}
+
+%%% Technical reports
+@misc{halIBAFs2023,
+author = {Marie-Christine Lagasquie-Schiex and Jean-Guy Mailly and Antonio Yuste-Ginel},
+title = {Incomplete Bipolar Argumentation Frameworks},
+howpublished = {IRIT/RR--2023--01--FR, IRIT : Institut de Recherche en Informatique de Toulouse},
+year = {2023},
+bibtex_show={true},
+abbr={TechRep},
+html={https://hal.science/hal-04104907v1},
+abstract={Dung's Abstract Argumentation Framework has been generalized in various directions. We combine two of these generalizations: Bipolar Argumentation Frameworks (BAFs), where a relation representing supports between arguments is added, and Incomplete Argumentation Frameworks (IAFs), where the existence of arguments and attacks may be uncertain. We discuss how the notion of completion of IAFs can be adapted to take into account the nature of the support relation, providing a couple of alternative definitions. After that, we analyse the impact of choosing among these alternatives on the complexity of argument acceptability problems. Finally, we give a logical encoding of our new framework in the Dynamic Logic of Propositional Assignments.},
+}
+
+@article{DBLP:journals/corr/abs-2109-08884,
+  author    = {Jean-Marie Lagniez and
+               Emmanuel Lonca and
+               Jean-Guy Mailly and
+               Julien Rossit},
+  title     = {Design and Results of {ICCMA} 2021},
+  journal   = {CoRR},
+  volume    = {abs/2109.08884},
+  year      = {2021},
+  url       = {https://arxiv.org/abs/2109.08884},
+  eprinttype = {arXiv},
+  eprint    = {2109.08884},
+  timestamp = {Thu, 14 Oct 2021 09:17:18 +0200},
+  biburl    = {https://dblp.org/rec/journals/corr/abs-2109-08884.bib},
+  bibsource = {dblp computer science bibliography, https://dblp.org},
+bibtex_show={true},
+abbr={TechRep},
+html={https://arxiv.org/abs/2109.08884},
+abstract={Since 2015, the International Competition on Computational Models of Argumentation (ICCMA) provides a systematic comparison of the different algorithms for solving some classical reasoning problems in the domain of abstract argumentation. This paper discusses the design of the Fourth International Competition on Computational Models of Argumentation. We describe the rules of the competition and the benchmark selection method that we used. After a brief presentation of the competitors, we give an overview of the results.}
+}
+
+@article{DBLP:journals/corr/abs-2009-04869,
+  author    = {Jean-Guy Mailly},
+  title     = {A Note on Rich Incomplete Argumentation Frameworks},
+  journal   = {CoRR},
+  volume    = {abs/2009.04869},
+  year      = {2020},
+  url       = {https://arxiv.org/abs/2009.04869},
+  archivePrefix = {arXiv},
+  eprint    = {2009.04869},
+  timestamp = {Thu, 17 Sep 2020 12:49:52 +0200},
+  biburl    = {https://dblp.org/rec/journals/corr/abs-2009-04869.bib},
+  bibsource = {dblp computer science bibliography, https://dblp.org},
+bibtex_show={true},
+abbr={TechRep},
+html={https://arxiv.org/abs/2009.04869},
+abstract={Recently, qualitative uncertainty in abstract argumentation has received much attention. The first works on this topic introduced uncertainty about the presence of attacks, then about the presence of arguments, and finally combined both kinds of uncertainty. This results in the Incomplete Argumentation Framework (IAFs). But another kind of uncertainty was introduced in the context of Control Argumentation Frameworks (CAFs): it consists in a conflict relation with uncertain orientation, i.e. we are sure that there is an attack between two arguments, but the actual direction of the attack is unknown. Here, we formally define Rich IAFs, that combine the three different kinds of uncertainty that were previously introduced in IAFs and CAFs. We show that this new model, although strictly more expressive than IAFs, does not suffer from a blow up of computational complexity. Also, the existing computational approach based on SAT can be easily adapted to the new framework.}
+}
+
+%%% Thesis
+@phdthesis{phdthesis,
+author = {Jean-Guy Mailly}, 
+title = {Dynamics of {A}rgumentation {F}rameworks}, 
+school = {Universit\'e d'Artois}, 
+year = {2015},
+bibtex_show={true},
+abbr={Thesis},
+html={https://hal.science/tel-02151885v1},
+abstract={This thesis tackles the problem of integrating a new piece of information in an abstract argumenta- tion framework. Such a framework is a directed graph such that its nodes represent the arguments, and the directed edges represent the attacks between arguments. There are different ways to decide which arguments are accepted by the agent who uses such a framework to represent her beliefs. An agent may be confronted with a piece of information such that "this argument should be accepted", which is in contradiction with her current beliefs, represented by her argumentation framework. In this thesis, we have studied several approaches to incorporate a piece of information in an argumenta- tion framework. Our first contribution is an adaptation of the AGM framework for belief revision, which has been de- veloped for characterizing the incorporation of a new piece of information when the agent’s beliefs are represented in a logical setting. We have adapted the rationality postulates from the AGM framework to characterize the revision operators suited to argumentation frameworks, and we have identified several ways to generate the argumentation frameworks resulting from the revision. We have also shown how to use AGM revision as a tool for revising argumentation frameworks. Our approach uses a logical encoding of the argumentation framework to take advantage of the classical re- vision operators, for deriving the expected result. At last, we have studied the problem of enforcing a set of arguments (how to change an argumentation framework so that a given set of arguments becomes an extension). We have developed a new family of operators which guarantee the success of the enforcement process, contrary to the existing approaches, and we have shown that a translation of our approaches into satisfaction and optimization problems makes possible to develop efficient tools for computing the result of the enforcement.}
+}
+
+@masterthesis{masterthesis,
+author = {Jean-Guy Mailly}, 
+title = {R\'evision de syst\`emes d'argumentation}, 
+school = {Universit\'e d'Artois}, 
+year = {2012},
+note = {Master thesis, in french. English title: {\em Revision of Argumentation Frameworks}},
+bibtex_show={true},
+abbr={Thesis},
+}
+
+
+

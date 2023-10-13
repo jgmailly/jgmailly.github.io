@@ -1,17 +1,17 @@
 ---
 layout: about
-title: about
+title: Home
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: Ph.D. in Computer Science
 
 profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>45 rue des Saints-Pères</p>
+    <p> F-75006 Paris, France</p>
+    <p>Office: 814i</p>
 
 news: true  # includes a list of news items
 latest_posts: true  # includes a list of the newest posts
@@ -19,8 +19,17 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I studied computer science at [Université d'Artois, Lens, France](http://www.univ-artois.fr/L-universite/UFR-et-IUT/Sciences) where
+I obtained my Bachelor degree (2010) and my Master degree (2012). My
+Ph.D. on the topic Dynamics of Argumentation Frameworks has been
+supervised by [Sylvie Coste-Marquis](http://www.cril.univ-artois.fr/~coste/), [Sébastien Konieczny](http://www.cril.univ-artois.fr/~konieczny/sebastien.php?page=index&lang=gb) and [Pierre
+Marquis](http://www.cril.univ-artois.fr/~marquis/Home,_sweet_home.html), from [CRIL](http://www.cril.univ-artois.fr/en). I defended my thesis in September 2015.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+From October 2015 to August 2016, I was working as Project Assistant at [Database and Artificial Intelligence Group](http://www.dbai.tuwien.ac.at/) from the [Faculty for Informatics](http://www.informatik.tuwien.ac.at/english), [TU Wien](http://www.tuwien.ac.at/en/tuwien_home/).
+Since September 2016, I am an Associate Professor in the
+[Department of Mathematics and Computer Science](https://math-info.u-paris.fr/)
+at [Université Paris Cité](https://u-paris.fr/). I am a member of the
+[LIPADE](http://lipade.mi.parisdescartes.fr/) laboratory, within the
+[Distributed Artificial Intelligence Group](http://dai.mi.parisdescartes.fr/).
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+[My research ancestors](https://genealogy.math.ndsu.nodak.edu/id.php?id=201797)
