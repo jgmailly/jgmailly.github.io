@@ -169,6 +169,10 @@ collections:
   projects:
     output: true
     permalink: /projects/:path/
+  teaching:
+    output: true
+    permalink: /teaching/:path
+    sort_by: category
 
 announcements:
   enabled: true
