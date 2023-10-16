@@ -3,9 +3,7 @@ layout: distill
 title: Research ancestors
 description: The Mathematics Genealogy Project and my ancestors
 tags: english
-giscus_comments: true
 date: 2023-10-14
-featured: true
 
 authors:
   - name: Jean-Guy Mailly
