@@ -15,7 +15,7 @@ Computational Models of Argumentation](http://argumentationcompetition.org) (ICC
 
 ### Organisation of events
 - Co-chair of the [The First International Workshop on Argumentation and Applications](https://argapp-workshop.github.io/) (Arg&App 2023)
-- Co-chair of the ]Fourth International Workshop on Systems and Algorithms for Formal Argumentation](http://safa2022.argumentationcompetition.org/) (SAFA 2022)
+- Co-chair of the [Fourth International Workshop on Systems and Algorithms for Formal Argumentation](http://safa2022.argumentationcompetition.org/) (SAFA 2022)
 - Chair of the [Fourth International Competition on Computational Models of Argumentation](http://argumentationcompetition.org/2021/) (ICCMA 2021)
 - Co-organizer of the [AMANDE - 2nd Argument Strength Workshop](http://www.math-info.univ-paris5.fr/~jmailly/AMANDE-ArgStrength-2018), IRIT, April 2018
 - Co-organizer of the [Workshop on New Trends in Belief Change](http://dbai.tuwien.ac.at/ntbc16/), TU Wien, May 2016
