@@ -14,7 +14,8 @@ Since January 2018, I am a member of the [International Competition on
 Computational Models of Argumentation](http://argumentationcompetition.org) (ICCMA) Steering Committee. Moreover, since October 2019, I am the secretary of the ICCMA Steering Committee.
 
 ### Organisation of events
-- Co-chair of the [The First International Workshop on Argumentation and Applications](https://argapp-workshop.github.io/) (Arg&App 2023)
+- Co-chair of the [Dix-Huitièmes Journées d'Intelligence Artificielle Fondamentale](https://pfia2024.univ-lr.fr/conférences/jiaf/) (JIAF 2024)
+- Co-chair of the [First International Workshop on Argumentation and Applications](https://argapp-workshop.github.io/) (Arg&App 2023)
 - Co-chair of the [Fourth International Workshop on Systems and Algorithms for Formal Argumentation](http://safa2022.argumentationcompetition.org/) (SAFA 2022)
 - Chair of the [Fourth International Competition on Computational Models of Argumentation](http://argumentationcompetition.org/2021/) (ICCMA 2021)
 - Co-organizer of the [AMANDE - 2nd Argument Strength Workshop](http://www.math-info.univ-paris5.fr/~jmailly/AMANDE-ArgStrength-2018), IRIT, April 2018
