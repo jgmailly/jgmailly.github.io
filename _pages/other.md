@@ -11,7 +11,7 @@ nav_order: 4
 ### Community service
 
 Since January 2018, I am a member of the [International Competition on
-Computational Models of Argumentation](http://argumentationcompetition.org) (ICCMA) Steering Committee. Moreover, since October 2019, I am the secretary of the ICCMA Steering Committee.
+Computational Models of Argumentation](http://argumentationcompetition.org) (ICCMA) Steering Committee. Moreover, from October 2019 to November 2023, I was the secretary of the ICCMA Steering Committee, and since November 2023 I am the president of the ICCMA Steering Committee.
 
 ### Organisation of events
 - Co-chair of the [Dix-Huitièmes Journées d'Intelligence Artificielle Fondamentale](https://pfia2024.univ-lr.fr/conférences/jiaf/) (JIAF 2024)
