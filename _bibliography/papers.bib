@@ -51,6 +51,18 @@
 }
 
 %%% International Journal
+@article{AIC2024a,
+author = {Jean-Guy Mailly},
+title = {Constrained Incomplete Argumentation Frameworks: Expressiveness, Complexity and Enforcement},
+journal = {AI Communications},
+year = {2024},
+note = {To appear},
+abbr = {AIC},
+bibtex_show={true},
+abstract={Operations like belief change or merging have been adapted to the context of abstract argumentation. However, these operations may require to express some uncertainty or some disjunction in the result, which is not representable in classical AFs. For this reason, some of these earlier works require a set of AFs or a set of extensions as the outcome of the operation, somehow to represent a “disjunction” of AFs or extensions. In parallel, the notion of Incomplete AFs (IAFs) has been developed recently. It corresponds to AFs where the existence of some arguments or attacks may be uncertain. Each IAF can be associated with a set of classical AFs called completions, that correspond to different ways of resolving the uncertainty. While these IAFs could be good candidates for a compact representation of a disjunction of AFs, we prove that this model is not expressive enough. Then we introduce Constrained IAFs, that include a propositional formula allowing to select the set of completions used for reasoning. We prove that this model is expressive enough for representing any set of AFs, or any set of extensions. Moreover, we study the complexity of various decision problems related to the verification of extensions and the acceptability of arguments. While some of them are one level higher in the polynomial hierarchy (compared to their counterpart with standard IAFs), most of them have the same complexity than in the case of IAFs. Finally, we show that CIAFs can be used to model a new form of extension enforcement, where the possible evolutions of an AF are taken into account and modeled by the completions of the CIAF.},
+selected={true},
+}
+
 @article{JLC2023,
 author = {Jean-Guy Mailly},
 title = {Extension-based Semantics for Incomplete Argumentation Frameworks: Properties, Complexity and Algorithms},
@@ -61,10 +73,11 @@ number = {2},
 pages = {406--435},
 bibtex_show={true},
 abbr={JLC},
-seleted={true},
+selected={true},
 html={https://hal.science/hal-04239123v1},
 abstract={Incomplete Argumentation Frameworks (IAFs) have been defined to incorporate some qualitative uncertainty in abstract argumentation: information such as "I am not sure whether this argument exists" or "I am not sure whether this argument attacks that one" can be expressed. Reasoning with IAFs is classically based on a set of completions, i.e. standard argumentation frameworks that represent the possible worlds encoded in the IAF. The number of these completions may be exponential with respect to the number of arguments in the IAF. This leads, in some cases, to an increase of the complexity of reasoning, compared to the complexity of standard AFs. In this paper, we follow an approach that was initiated for Partial AFs (a subclass of IAFs), which consists in defining new forms of conflict-freeness and defense, the properties that underly the definition of Dung's semantics for AFs. We generalize these semantics from PAFs to IAFs. We show that, among three possible types of admissibility, only two of them satisfy some desirable properties. We use them to define two new families of extension-based semantics. We study the properties of these semantics, and in particular we show that their complexity remains the same as in the case of Dung's AFs. Finally, we propose a logical encoding of these semantics, and we show experimentally that this encoding can be used efficiently to reason with IAFs, thanks to the power of modern SAT solvers.},
 }
+
 
 @article{argAndComp2022b,
 title = {A tool for merging extensions of abstract argumentation frameworks},
