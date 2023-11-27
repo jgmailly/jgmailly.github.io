@@ -32,4 +32,5 @@ at [Université Paris Cité](https://u-paris.fr/). I am a member of the
 [LIPADE](http://lipade.mi.parisdescartes.fr/) laboratory, within the
 [Distributed Artificial Intelligence Group](http://dai.mi.parisdescartes.fr/).
 
-[My research ancestors](https://genealogy.math.ndsu.nodak.edu/id.php?id=201797)
+Various stuff about me in academia:
+[My research ancestors](https://genealogy.math.ndsu.nodak.edu/id.php?id=201797) - [Mastodon](https://lipn.info/@jgmailly "Mastodon {rel='me'}")
