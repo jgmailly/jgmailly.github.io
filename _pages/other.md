@@ -39,7 +39,8 @@ Past:
 - Since 2021: I am a member of the editorial board of [Argument & Computation](https://www.iospress.nl/journal/argument-computation/?tab=editorial-board).
 
 ### Programm Committee
-- Thirty-third International Joint Conference on Artificial Intelligence (IJCAI) - [More details](https://ijcai24.org)
+- Twenty-seventh European Conference on Artificial Intelligence (ECAI 2024) - [More details](https://www.ecai2024.eu)
+- Thirty-third International Joint Conference on Artificial Intelligence (IJCAI 2024) - [More details](https://ijcai24.org)
 - Vingt-deuxièmes Rencontres des Jeunes Chercheurs en Intelligence Artificielle (RJCIA 2024) - [More details](https://pfia2024.univ-lr.fr/Conférences/RJCIA/)
 - Twenty-Third International Conference on Autonomous Agent and Multiagent Systems (AAMAS 2024) - [More details](https://aamas2024-conference.auckland.ac.nz/)
 - Ninth Workshop on Formal and Cognitive Reasoning (FCR 2023) - [More details](https://www.fernuni-hagen.de/wbs/fcr2023.html)
