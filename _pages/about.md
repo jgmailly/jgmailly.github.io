@@ -9,9 +9,9 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>45 rue des Saints-Pères</p>
-    <p> F-75006 Paris, France</p>
-    <p>Office: 814i</p>
+    <p>21 allée de Brienne</p>
+    <p> 31000 Toulouse, France</p>
+    <p>Office: MF217</p>
 
 news: true  # includes a list of news items
 latest_posts: true  # includes a list of the newest posts
@@ -26,8 +26,17 @@ supervised by [Sylvie Coste-Marquis](http://www.cril.univ-artois.fr/~coste/), [S
 Marquis](http://www.cril.univ-artois.fr/~marquis/Home,_sweet_home.html), from [CRIL](http://www.cril.univ-artois.fr/en). I defended my thesis in September 2015.
 
 From October 2015 to August 2016, I was working as Project Assistant at [Database and Artificial Intelligence Group](http://www.dbai.tuwien.ac.at/) from the [Faculty for Informatics](http://www.informatik.tuwien.ac.at/english), [TU Wien](http://www.tuwien.ac.at/en/tuwien_home/).
-Since September 2016, I am an Associate Professor in the
+From September 2016 to February 2024, I was an Associate Professor in the
 [Department of Mathematics and Computer Science](https://math-info.u-paris.fr/)
-at [Université Paris Cité](https://u-paris.fr/). I am a member of the
+at [Université Paris Cité](https://u-paris.fr/), where I was a member of the
 [LIPADE](http://lipade.mi.parisdescartes.fr/) laboratory, within the
-[Distributed Artificial Intelligence Group](http://dai.mi.parisdescartes.fr/).
+[Distributed Artificial Intelligence
+Group](http://dai.mi.parisdescartes.fr/).
+
+Since March 2024, I am a Junior Professor in the [Faculty of
+Information
+Technology](https://www.ut-capitole.fr/home/the-university/faculties-schools/faculty-of-information-technology)
+at [Université Toulouse Capitole](https://www.ut-capitole.fr/home),
+where I am the holder of the chair Artificial Intelligence, Data,
+Algorithms and Law (AIDAL). I
+joined the [LILaC](https://www.irit.fr/en/departement/dep-artificial-intelligence/lilac-team/) team of [IRIT](https://www.irit.fr).
