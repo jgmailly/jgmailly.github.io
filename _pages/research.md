@@ -17,8 +17,9 @@ My research concerns mainly knowledge representation and reasoning
   - argument-based negotiation,
   - uncertainty in argumentation,
   - argument strength,
-  - argumentation for explainable AI
-- Belief change (belief revision, belief merging)
+  - argumentation for explainable AI,
+  - argumentation for legal reasoning,
+- Belief change (belief revision, belief merging).
 I've been particularly interested in the intersection of argumentation and belief change (this intersection was the topic of my Ph.D. thesis).
 
 I am also interested in algorithmic solutions (mainly based on SAT) for hard problems:
