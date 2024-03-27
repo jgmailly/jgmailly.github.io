@@ -24,14 +24,10 @@ Computational Models of Argumentation](http://argumentationcompetition.org) (ICC
 - Co-organizer of the [Workshop on Change in Argumentation](http://www.cril.univ-artois.fr/changearg/), Université d'Artois, September 2015
 
 ### Local Administrative Duties
-Some responsibilities in the Université Paris Cité or in LIPADE lab:
-
-Current:
-- Since 2022: co-head of the [Master Intelligence Artificielle Distribuée](https://math-info.u-paris.fr/master-informatique/parcours-intelligence-artificielle-distribuee/) (IAD)
-- Since 2019: member of the Conseil de laboratoire (laboratory concil)
+Some past responsibilities in the Université Paris Cité or in LIPADE lab:
+- 2022-2024: co-head of the [Master Intelligence Artificielle Distribuée](https://math-info.u-paris.fr/master-informatique/parcours-intelligence-artificielle-distribuee/) (IAD)
+- 2019-2024: member of the Conseil de laboratoire (laboratory concil)
 of LIPADE
-
-Past:
 - 2022-2023: director of the [Graduate School on Artificial Intelligence and Data Science](https://u-paris.fr/artificial-intelligence-and-data-science/)
 - 2017-2022: member of the Conseil scientifique local (local scientific concil) of the Faculty of Mathematics and Computer Science, Université de Paris
 
@@ -40,9 +36,10 @@ Past:
 - Since 2021: I am a member of the editorial board of [Argument & Computation](https://www.iospress.nl/journal/argument-computation/?tab=editorial-board).
 
 ### Programm Committee
+- Tenth International Conference on Computational Models of Argument (COMMA 2024) - [More details](http://comma2024.krportal.org)
 - Twenty-seventh European Conference on Artificial Intelligence (ECAI 2024) - [More details](https://www.ecai2024.eu)
-- Thirty-third International Joint Conference on Artificial Intelligence (IJCAI 2024) - [More details](https://ijcai24.org)
 - Vingt-deuxièmes Rencontres des Jeunes Chercheurs en Intelligence Artificielle (RJCIA 2024) - [More details](https://pfia2024.univ-lr.fr/Conférences/RJCIA/)
+- Thirty-third International Joint Conference on Artificial Intelligence (IJCAI 2024) - [More details](https://ijcai24.org)
 - Twenty-Third International Conference on Autonomous Agent and Multiagent Systems (AAMAS 2024) - [More details](https://aamas2024-conference.auckland.ac.nz/)
 - Ninth Workshop on Formal and Cognitive Reasoning (FCR 2023) - [More details](https://www.fernuni-hagen.de/wbs/fcr2023.html)
 - Fifth International Conference on Logic and Argumentation (CLAR 2023) - [More details](https://www.zlaire.net/clar2023/index.html)
