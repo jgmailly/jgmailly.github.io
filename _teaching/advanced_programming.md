@@ -6,6 +6,8 @@ importance: 1
 category: Bachelor
 ---
 
+I was in charge of this course at Université Paris Cité.
+
 This course, destined to students in the third year of our Bachelor in
 Computer Science program (L3), presents important notions of object
 oriented programming:

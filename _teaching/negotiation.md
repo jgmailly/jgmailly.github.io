@@ -6,6 +6,8 @@ importance: 2
 category: Master
 ---
 
+I was in charge of this course at Université Paris Cité.
+
 This course, destined to students in the second year of our Master in
 Computer Science (Distributed Artificial Intelligence) program (M1),
 gives an introduction to automated negotiation, with a focus on:

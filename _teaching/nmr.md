@@ -6,6 +6,8 @@ importance: 1
 category: Master
 ---
 
+I was in charge of this course at Université Paris Cité.
+
 This course, destined to students in the first year of our Master in
 Computer Science program (M1), introduces various questions
 related to non-monotonic reasoning, namely
