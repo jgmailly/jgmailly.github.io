@@ -1,4 +1,4 @@
-%%% Proceedigs edition
+%%% Proceedings edition
 @proceedings{procArgApp2023,
   editor    = {Oana Cocarascu and
                Sylvie Doutre and
@@ -12,7 +12,6 @@
   url       = {https://ceur-ws.org/Vol-3472},
   bibtex_show={true},
   abbr={ArgApp},
-  selected={true},
   html={https://ceur-ws.org/Vol-3472/},
   abstract={Summary: There were 11 papers submitted for peer-review to this workshop. Out of these, 8 papers were accepted for this volume, 5 as regular papers and 3 as short papers. The workshop also included two invited talks: one keynote talk by Antonis Kakas (University of Cyprus), and the announcement of the results of the Fifth International Competition on Computational Models of Argumentation by Tuomo Lehtonen and Andreas Niskanen (University of Helsinki), which is included in the proceedings as an invited paper.}
 }
@@ -86,7 +85,6 @@ number = {2},
 pages = {406--435},
 bibtex_show={true},
 abbr={JLC},
-selected={true},
 html={https://hal.science/hal-04239123v1},
 abstract={Incomplete Argumentation Frameworks (IAFs) have been defined to incorporate some qualitative uncertainty in abstract argumentation: information such as "I am not sure whether this argument exists" or "I am not sure whether this argument attacks that one" can be expressed. Reasoning with IAFs is classically based on a set of completions, i.e. standard argumentation frameworks that represent the possible worlds encoded in the IAF. The number of these completions may be exponential with respect to the number of arguments in the IAF. This leads, in some cases, to an increase of the complexity of reasoning, compared to the complexity of standard AFs. In this paper, we follow an approach that was initiated for Partial AFs (a subclass of IAFs), which consists in defining new forms of conflict-freeness and defense, the properties that underly the definition of Dung's semantics for AFs. We generalize these semantics from PAFs to IAFs. We show that, among three possible types of admissibility, only two of them satisfy some desirable properties. We use them to define two new families of extension-based semantics. We study the properties of these semantics, and in particular we show that their complexity remains the same as in the case of Dung's AFs. Finally, we propose a logical encoding of these semantics, and we show experimentally that this encoding can be used efficiently to reason with IAFs, thanks to the power of modern SAT solvers.},
 }
@@ -206,6 +204,19 @@ abstract={This paper addresses the issue of the dynamic enforcement of a constra
 
 
 %%% International Conferences
+@inproceedings{foiks2024,
+  title = {How to Manage Supports in Incomplete Argumentation},
+  author = {Marie-Christine Lagasquie-Schiex and Jean-Guy Mailly and Antonio Yuste-Ginel},
+  booktitle = {Proceedings of the 13th International Symposium on Foundations of Information and Knowledge Systems (FoIKS 2024)},
+  year = {2024},
+  url = {https://hal.science/hal-04443886v1},
+abbr={FoIKS},
+html={https://hal.science/hal-04443886v1},
+abstract={The growing interest in generalizations of Dung's abstract argumentation frameworks has recently led to the simultaneous and independent discovery of a combination of two of these generalizations: Bipolar Argumentation Frameworks (BAFs), where a relation representing supports between arguments is added, and Incomplete Argumentation Frameworks (IAFs), where the existence of arguments and attacks may be uncertain, resulting in the so-called Incomplete Bipolar Abstract Argumentation Frameworks (IBAFs). This paper digs deeper into such a combination by: (i) providing a thoughtful analysis of the existing notions of completion (the hypothetical removal of uncertainty used in IBAFs to reason about argument acceptability); (ii) proposing, motivating and studying new notions of completion; (iii) throwing new complexity results on argument acceptability problems associated with IBAFs; (iv) encoding these reasoning problems into a lightweight version of dynamic logic.},
+bibtex_show={true},
+selected={true},
+}
+
 @InProceedings{ecsqaru2023a,
 title = {Revisiting Approximate Reasoning based on Grounded Semantics},
 booktitle = {Seventeenth {E}uropean {C}onference on {S}ymbolic and {Q}uantitative {A}pproaches to {R}easoning with {U}ncertainty ({ECSQARU} 2023)},
@@ -213,7 +224,6 @@ author = {Jérôme Delobelle and Jean-Guy Mailly and Julien Rossit},
 year = {2023},
 bibtex_show={true},
 abbr={ECSQARU},
-selected={true},
 html={https://hal.science/hal-04258651},
 abstract={Efficient computation of hard reasoning tasks is a key issue in abstract argumentation. One recent approach consists in defining approximate algorithms, i.e. methods that provide an answer that may not always be correct, but outperforms the exact algorithms regarding the computation runtime. One such approach proposes to use the grounded semantics, which is polynomially computable, as a starting point for determining whether arguments are (credulously or skeptically) accepted with respect to various semantics. In this paper, we push further this idea by defining various approaches to evaluate the acceptability of arguments which are not in the grounded extension, neither attacked by it. We have implemented our approaches, and we describe the result of their empirical evaluation.},
 }
@@ -225,7 +235,6 @@ author = {Jean-Guy Mailly},
 year = {2023},
 bibtex_show={true},
 abbr={ECSQARU},
-selected={true},
 html={https://hal.science/hal-04213800v1},
 abstract={Incomplete Argumentation Frameworks (IAFs) enrich classical abstract argumentation with arguments and attacks whose actual existence is questionable. The usual reasoning approaches rely on the notion of completion, i.e. standard AFs representing "possible worlds" compatible with the uncertain information encoded in the IAF. Recently, extension-based semantics for IAFs that do not rely on the notion of completion have been defined, using instead new versions of conflict-freeness and defense that take into account the (certain or uncertain) nature of arguments and attacks. In this paper, we give new insights on this reasoning approach, by adapting the well-known grounded semantics to this framework in two different versions. After determining the computational complexity of our new semantics, we provide a principle-based analysis of these semantics, as well as the ones previously defined in the literature, namely the complete, preferred and stable semantics.}
 }
@@ -237,7 +246,6 @@ author = {Jean-Guy Mailly},
 year = {2023},
 bibtex_show={true},
 abbr={CLAR},
-selected={true},
 html={https://hal.science/hal-04213461v1},
 abstract={We study the notion of realization of extensions in abstract argumentation. It consists in reversing the usual reasoning process: instead of computing the extensions of an argumentation framework, we want to determine whether a given set of extensions corresponds to some (set of) argumentation framework(s) (AFs); and more importantly we want to identify such an AF (or set of AFs) that realizes the set of extensions. While deep theoretical studies have been concerned with realizability of extensions sets, there are few computational approaches for solving this problem. In this paper, we generalize the concept of realizability by introducing two parameters: the number k of auxiliary arguments (i.e. those that do not appear in any extension), and the number m of AFs in the result. We define a translation of k-m-realizability into Quantified Boolean Formulas (QBFs) solving. We also show that our method allows to guarantee that the result of the realization is as close as possible to some input AF. Our method can be applied in the context of AF revision operators, where revised extensions must be mapped to a set of AFs while ensuring some notion of proximity with the initial AF.}
 }
