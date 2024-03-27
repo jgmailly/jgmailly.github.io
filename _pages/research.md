@@ -65,6 +65,7 @@ I am also interested in algorithmic solutions (mainly based on SAT) for hard pro
 - Fabrice Gaignier, Université Paris Cité
 - [Adrian Haret](http://dbai.tuwien.ac.at/staff/haret/), Institute of Information Systems, TU Wien
 - [Sébastien Konieczny](http://www.cril.univ-artois.fr/~konieczny/), CRIL, CNRS - Université d'Artois
+- [Marie-Christine Lagasquie-Schiex](https://www.irit.fr/~Marie-Christine.Lagasquie-Schiex//), IRIT, Université Paul Sabatier, Toulouse
 - [Jean-Marie Lagniez](http://www.cril.univ-artois.fr/~lagniez/), CRIL, Université d'Artois - CNRS
 - [Jean Lieber](https://members.loria.fr/JLieber/cv/), LORIA, Université de Lorraine
 - [Emmanuel Lonca](http://www.cril.univ-artois.fr/~lonca/), CRIL, Université d'Artois - CNRS
@@ -76,3 +77,4 @@ I am also interested in algorithmic solutions (mainly based on SAT) for hard pro
 - [Julien Rossit](http://www.math-info.univ-paris5.fr/~jrossit/), LIPADE, Université Paris Cité
 - [Johannes P. Wallner](https://wallner.ist.tugraz.at/), TU Graz
 - [Stefan Woltran](http://dbai.tuwien.ac.at/staff/woltran/), Institute of Information Systems, TU Wien
+- [Antonio Yuste-Ginel](https://sites.google.com/view/antonioyusteginel), Complutense University of Madrid
