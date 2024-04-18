@@ -5,7 +5,7 @@ description: A Python enGine for Argumentation
 img: assets/img/pygarg_logo.png
 importance: 1
 category: software
-related_publications: halPygarg2024
+related_publications: halPygarg2024, argAndComp2024b
 ---
 
 [pygarg](https://github.com/jgmailly/pygarg) is a Python implementation of SAT-based techniques for abstract
@@ -26,4 +26,4 @@ pygarg can be installed thanks to the Python Package Index:
 pip install pygarg
 ```
 
-See the technical report {% cite halPygarg2024 %} or the [GitHub](https://github.com/jgmailly/pygarg) repository for more details on how to use pygarg, via the command-line or as a library in your own Python script.
+See {% cite argAndComp2024b %} or the [GitHub](https://github.com/jgmailly/pygarg) repository for more details on how to use pygarg, via the command-line or as a library in your own Python script.
