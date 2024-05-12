@@ -6,7 +6,7 @@
     - name: Date of Birth
       value: 8th February 1990
     - name: Contact
-      value: jean-guy.mailly@u-paris.fr
+      value: jean-guy.mailly@irit.fr
     - name: Languages
       value: French, English
 
@@ -36,11 +36,17 @@
 - title: Experience
   type: time_table
   contents:
+    - title: Junior Professor of Computer Science
+      institution: IRIT, Université Toulouse Capitole, Toulouse, France
+      year: 2024 - ...
+      description:
+        - Research in the LILaC group of IRIT.
+        - Teaching in the Toulouse School of Management and the Faculty of Information Technology.
     - title: Associate Professor of Computer Science
       institution: LIPADE, Université Paris Cité, Paris, France
-      year: 2016 - ...
+      year: 2016 - 2024
       description:
-        - Research in the Distributed Artificial Intelligence groupe of LIPADE.
+        - Research in the Distributed Artificial Intelligence group of LIPADE.
         - Teaching in the Department of Mathematics and Computer Science.
     - title: Project Assistant
       institution: Faculty of Informatics, TU Wien, Vienna, Austria
