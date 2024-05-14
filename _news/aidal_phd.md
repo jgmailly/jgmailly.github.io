@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Open PhD position: AI and Law."
+title: "Open PhD position: AI for Legal Reasoning."
 date: 2024-05-12
 inline: false
 related_publications: 
