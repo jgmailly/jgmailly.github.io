@@ -36,6 +36,7 @@ of LIPADE
 - Since 2021: I am a member of the editorial board of [Argument & Computation](https://www.iospress.nl/journal/argument-computation/?tab=editorial-board).
 
 ### Programm Committee
+- Joint Workshop on Knowledge Diversity and Cognitive Aspects of KR (KoDis/CAKR 2024) - [More details](http://kodis-cakr24.krportal.org/index.htm)
 - Tenth International Conference on Computational Models of Argument (COMMA 2024) - [More details](http://comma2024.krportal.org)
 - Twenty-seventh European Conference on Artificial Intelligence (ECAI 2024) - [More details](https://www.ecai2024.eu)
 - Vingt-deuxièmes Rencontres des Jeunes Chercheurs en Intelligence Artificielle (RJCIA 2024) - [More details](https://pfia2024.univ-lr.fr/Conférences/RJCIA/)
