@@ -59,7 +59,7 @@ I am also interested in algorithmic solutions (mainly based on SAT) for hard pro
 - [Gerhard Brewka](https://www.informatik.uni-leipzig.de/~brewka/), University of Leipzig
 - [Paul Cibier](https://pi-univers.fr), Université Paris Cité
 - [Sylvie Coste-Marquis](http://www.cril.univ-artois.fr/~coste/), CRIL, Université d'Artois - CNRS
-- [Victor David](https://vict0r-david.github.io/), University of Perugia
+- [Victor David](https://vict0r-david.github.io/), INRIA Sophia-Antipolis
 - [Jérôme Delobelle](http://helios.mi.parisdescartes.fr/~jdelobel/), LIPADE, Université Paris Cité
 - [Yannis Dimopoulos](http://www.cs.ucy.ac.cy/~yannis/), University of Cyprus
 - [Sylvie Doutre](https://www.irit.fr/~Sylvie.Doutre/), IRIT, Université de Toulouse 1 - CNRS
