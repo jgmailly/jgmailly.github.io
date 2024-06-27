@@ -57,6 +57,7 @@ I am also interested in algorithmic solutions (mainly based on SAT) for hard pro
 - Yohann Bacquey, LIPADE, Université Paris Cité
 - [Ringo Baumann](https://www.informatik.uni-leipzig.de/~baumann/), University of Leipzig
 - [Gerhard Brewka](https://www.informatik.uni-leipzig.de/~brewka/), University of Leipzig
+- [Paul Cibier](https://pi-univers.fr), Université Paris Cité
 - [Sylvie Coste-Marquis](http://www.cril.univ-artois.fr/~coste/), CRIL, Université d'Artois - CNRS
 - [Victor David](https://vict0r-david.github.io/), University of Perugia
 - [Jérôme Delobelle](http://helios.mi.parisdescartes.fr/~jdelobel/), LIPADE, Université Paris Cité
