@@ -1,4 +1,15 @@
 %%% Proceedings edition
+@proceedings{procJIAF2024,
+  editor    = {Jean-Guy Mailly and
+               François Schwartzentruber and Anaëlle Wilczynski},
+  title     = {Actes des 18èmes Journées d’Intelligence Artificielle Fondamentale et 19es Journées Francophones sur la Planification, la Décision et l’Apprentissage pour la conduite de systèmes (JIAF-JFPDA 2024)},
+  publisher    = {AFIA},
+  year      = {2024},
+  html       = {https://hal.science/AFIA/hal-04620491v1},
+  bibtex_show={true},
+abbr={JIAF},
+}
+
 @proceedings{procArgApp2023,
   editor    = {Oana Cocarascu and
                Sylvie Doutre and
@@ -239,12 +250,25 @@ abstract={This paper addresses the issue of the dynamic enforcement of a constra
 
 
 %%% International Conferences
+@inproceedings{ecai2024,
+    author = {Aurélie Beynier and Jean-Guy Mailly and Nicolas Maudet and Anaëlle Wilczynski},
+    title = {Explaining the Lack of Locally Envy-Free Allocations},
+    booktitle = {Proceedings of the 27th European Conference on Artificial Intelligence ({ECAI} 2024)},
+    year = {2024},
+    note = {To appear},
+    bibtex_show={true},
+    selected={true},
+    abstract = {In fair division, local envy-freeness is a desirable property which has been thoroughly studied in recent years. In this paper, we study explanations which can be given to explain that no allocation of items can satisfy this criterion, in the house allocation setting where agents receive a single item. While MUSes are key concepts to extract explanations, they cannot be used as such: (i) they highly depend on the initial encoding of the problem; (ii) they are flat structures which fall short of capturing the dynamics of explanations; (iii) they typically come in large number and exhibit great diversity. In this paper we provide two SAT encodings of the problem which enable us to extract MUS when instances are unsatisfiable. We build a dynamic graph structure which allows to follow step-by-step the explanation. Finally, we propose several criteria to select MUSes, some of them being based on the MUS structure, while others rely on this original graphical explanation structure. We give theoretical bounds on these metrics, showing that they can vary significantly for some instances. Experimental results on synthetic data complement these results and illustrate the impact of the encodings and the relevance of our metrics to select among the many MUSes.},
+abbr={ECAI},
+}
+
 @inproceedings{comma2024,
     author = {Paul Cibier and Jean-Guy Mailly},
     title = {Graph Convolutional Networks and Graph Attention Networks for Approximating Arguments Acceptability},
     booktitle = {Proceedings of the  10th International Conference on Computational Models of Argument ({COMMA} 2024)},
     year = {2024},
     abbr = {COMMA},
+    abstract = {Various approaches have been proposed for providing efficient computational approaches for abstract argumentation. Among them, neural networks have permitted to solve various decision problems, notably related to arguments (credulous or skeptical) acceptability. In this work, we push further this study in various ways. First, relying on the state-of-the-art approach AFGCN, we show how we can improve the performances of the Graph Convolutional Networks (GCNs) regarding both runtime and accuracy. Then, we show that it is possible to improve even more the efficiency of the approach by modifying the architecture of the network, using Graph Attention Networks (GATs) instead.},
     note = {To appear},
     bibtex_show={true},
     selected={true},
