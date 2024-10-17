@@ -6,9 +6,17 @@
   - firstname: ["Ringo", "R."]
     url: https://www.informatik.uni-leipzig.de/~baumann/
 
+"Beynier":
+  - firstname: ["Aurélie", "A."]
+    url: https://webia.lip6.fr/~beyniera/
+
 "Brewka":
   - firstname: ["Gerhard", "G."]
     url: https://www.informatik.uni-leipzig.de/~brewka/
+
+"Cibier":
+  - firstname: ["Paul", "P."]
+    url: https://pi-univers.fr
 
 "Coste-Marquis": 
   - firstname: ["Sylvie", "S."]
@@ -70,6 +78,10 @@
   - firstname: ["Pierre", "P."]
     url: http://www.cril.univ-artois.fr/~marquis/
 
+"Maudet":
+ - firstname: ["Nicolas", "N."]
+   url: https://nmaudet.gitlab.io
+
 "Moraitis":
   - firstname: ["Pavlos", "P."]
     url: http://www.math-info.univ-paris5.fr/~moraitis/
@@ -93,6 +105,9 @@
 "Woltran":
   - firstname: ["Stefan", "S."]
     url: http://dbai.tuwien.ac.at/staff/woltran/
+"Wilczynski":
+  - firstname: ["Anaëlle", "A."]
+    url: https://anaellewilczynski.pages.centralesupelec.fr/website/
 
 "Yuste-Ginel":
   - firstname: ["Antonio", "A."]
