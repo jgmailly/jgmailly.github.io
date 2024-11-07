@@ -14,6 +14,7 @@ Since January 2018, I am a member of the [International Competition on
 Computational Models of Argumentation](http://argumentationcompetition.org) (ICCMA) Steering Committee. Moreover, from October 2019 to November 2023, I was the secretary of the ICCMA Steering Committee, and since November 2023 I am the president of the ICCMA Steering Committee.
 
 ### Organisation of events
+- Co-chair of the [Dix-Neuvièmes Journées d'Intelligence Artificielle Fondamentale](https://pfia2025.u-bourgogne.fr/conferences/jiaf/) (JIAF 2025)
 - Co-chair of the [Fifth International Workshop on Systems and Algorithms for Formal Argumentation](http://safa2024.argumentationcompetition.org) (SAFA 2024)
 - Co-chair of the [Dix-Huitièmes Journées d'Intelligence Artificielle Fondamentale](https://pfia2024.univ-lr.fr/conférences/jiaf/) (JIAF 2024)
 - Co-chair of the [First International Workshop on Argumentation and Applications](https://argapp-workshop.github.io/) (Arg&App 2023)
@@ -36,6 +37,7 @@ of LIPADE
 - Since 2021: I am a member of the editorial board of [Argument & Computation](https://www.iospress.nl/journal/argument-computation/?tab=editorial-board).
 
 ### Programm Committee
+- Twenty-Fourth International Conference on Autonomous Agents and Multiagent Systems (AAMAS 2025) - Special Track on Blue Sky Ideas - [More details](https://aamas2025.org/index.php/conference/calls/call-for-blue-sky-ideas/)
 - Joint Workshop on Knowledge Diversity and Cognitive Aspects of KR (KoDis/CAKR 2024) - [More details](http://kodis-cakr24.krportal.org/index.htm)
 - Tenth International Conference on Computational Models of Argument (COMMA 2024) - [More details](http://comma2024.krportal.org)
 - Twenty-seventh European Conference on Artificial Intelligence (ECAI 2024) - [More details](https://www.ecai2024.eu)
@@ -120,7 +122,7 @@ of LIPADE
 - Reviewer for the Twenty-First European Conference on Artificial Intelligence (ECAI 2014) - [More details](http://www.ecai2014.org/)
 
 ## Thesis Reviewer/Defense Committee Member
-
+- Member of the defense committee (*examinateur*) of Yann Munro (Sorbonne Université, Paris, 2024)
 - External thesis reviewer of Antonio Yuste-Ginel (University of Malaga, 2022)
 - Member of the defense committee (*examinateur*) of Mickael Lafages (Université Paul Sabatier, Toulouse, 2021)
 - Pre-examiner of the Ph.D. thesis of Andreas Niskanen (University of Helsinki, 2020)
