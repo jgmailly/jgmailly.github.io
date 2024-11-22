@@ -45,6 +45,10 @@
 "JELIA":
   url: https://link.springer.com/conference/jelia
   color: "#003600"
+
+"SAC":
+  url: https://www.sigapp.org
+  color: "#003600"
   
 "ArgComp":
   url: https://www.iospress.com/catalog/journals/argument-computation

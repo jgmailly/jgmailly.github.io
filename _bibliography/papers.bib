@@ -61,6 +61,34 @@ abbr={JIAF},
 }
 
 %%% International Journal
+@article{argAndComp2025b,
+author = {Jean-Guy Mailly},
+title = {{pygarg}: A {P}ython {E}ngine for {A}rgumentation},
+journal = {Argument {\&} Computation},
+year = {2025},
+doi = {10.3233/AAC-230019},
+html = {https://doi.org/10.3233/AAC-230019},
+note = {To appear},
+abbr = {ArgComp},
+bibtex_show={true},
+abstract={Recent advancements in algorithms for abstract argumentation make it possible now to solve reasoning problems even with argumentation frameworks of large size, as demonstrated by the results of the various editions of the International Competition on Computational Models of Argumentation (ICCMA).  However, the solvers participating to the competition may be hard to use for non-expert  programmers, especially if they need to incorporate these algorithms in their own code instead of simply using the command-line interface.  Moreover, some ICCMA solvers focus on the ICCMA tracks, and do not implement algorithms for other problems. In this paper we describe pygarg, a Python implementation of the SAT-based approach used in the argumentation solver CoQuiAAS. Contrary to CoQuiAAS and most of the participants to the various editions of ICCMA, pygarg incorporates all problems that have been considered in the main track of any edition of ICCMA. We show how to easily use pygarg via a command-line interface inspired by ICCMA competitions, and then how it can be used in other Python scripts as a third-party library.},
+selected={true},
+}
+
+@article{argAndComp2025,
+author = {Stefano Bistarelli and Lars Kotthoff and Jean-Marie Lagniez and Emmanuel Lonca and Jean-Guy Mailly and Julien Rossit and Francesco Santini and Carlo Taticchi},
+title = {The Third and Fourth International Competitions on Computational Models of Argumentation: Design, Results and Analysis},
+journal = {Argument {\&} Computation},
+year = {2025},
+doi = {10.3233/AAC-230013},
+note = {To appear},
+abbr = {ArgComp},
+bibtex_show={true},
+html={https://doi.org/10.3233/AAC-230013},
+abstract={The International Competition on Computational Models of Argumentation (ICCMA) focuses on reasoning tasks in abstract argumentation frameworks. Submitted solvers are tested on a selected collection of benchmark instances, including artificially generated argumentation frameworks and some frameworks formalizing real-world problems. This paper presents the novelties introduced in the organization of the Third (2019) and Fourth (2021) editions of the competition. In particular, we proposed new tracks to competitors, one dedicated to dynamic solvers (i.e., solvers that incrementally compute solutions of frameworks obtained by incrementally modifying original ones) in ICCMA’19 and one dedicated to approximate algorithms in ICCMA’21. From the analysis of the results, we noticed that i) dynamic recomputation of solutions leads to significant performance improvements, ii) approximation provides much faster results with satisfactory accuracy, and iii) classical solvers improved with respect to previous editions, thus revealing advancement in state of the art.},
+selected={true},
+}
+
 @article{ijar2024,
 author = {Jean-Guy Mailly},
 title = {Grounded Semantics and Principle-based Analysis for Incomplete Argumentation Frameworks},
@@ -75,33 +103,6 @@ abstract={Incomplete Argumentation Frameworks (IAFs) enrich classical abstract a
 selected={true},
 }
 
-@article{argAndComp2024b,
-author = {Jean-Guy Mailly},
-title = {{pygarg}: A {P}ython {E}ngine for {A}rgumentation},
-journal = {Argument {\&} Computation},
-year = {2024},
-doi = {10.3233/AAC-230019},
-html = {https://doi.org/10.3233/AAC-230019},
-note = {To appear},
-abbr = {ArgComp},
-bibtex_show={true},
-abstract={Recent advancements in algorithms for abstract argumentation make it possible now to solve reasoning problems even with argumentation frameworks of large size, as demonstrated by the results of the various editions of the International Competition on Computational Models of Argumentation (ICCMA).  However, the solvers participating to the competition may be hard to use for non-expert  programmers, especially if they need to incorporate these algorithms in their own code instead of simply using the command-line interface.  Moreover, some ICCMA solvers focus on the ICCMA tracks, and do not implement algorithms for other problems. In this paper we describe pygarg, a Python implementation of the SAT-based approach used in the argumentation solver CoQuiAAS. Contrary to CoQuiAAS and most of the participants to the various editions of ICCMA, pygarg incorporates all problems that have been considered in the main track of any edition of ICCMA. We show how to easily use pygarg via a command-line interface inspired by ICCMA competitions, and then how it can be used in other Python scripts as a third-party library.},
-selected={true},
-}
-
-@article{argAndComp2024,
-author = {Stefano Bistarelli and Lars Kotthoff and Jean-Marie Lagniez and Emmanuel Lonca and Jean-Guy Mailly and Julien Rossit and Francesco Santini and Carlo Taticchi},
-title = {The Third and Fourth International Competitions on Computational Models of Argumentation: Design, Results and Analysis},
-journal = {Argument {\&} Computation},
-year = {2024},
-doi = {10.3233/AAC-230013},
-note = {To appear},
-abbr = {ArgComp},
-bibtex_show={true},
-html={https://doi.org/10.3233/AAC-230013},
-abstract={The International Competition on Computational Models of Argumentation (ICCMA) focuses on reasoning tasks in abstract argumentation frameworks. Submitted solvers are tested on a selected collection of benchmark instances, including artificially generated argumentation frameworks and some frameworks formalizing real-world problems. This paper presents the novelties introduced in the organization of the Third (2019) and Fourth (2021) editions of the competition. In particular, we proposed new tracks to competitors, one dedicated to dynamic solvers (i.e., solvers that incrementally compute solutions of frameworks obtained by incrementally modifying original ones) in ICCMA’19 and one dedicated to approximate algorithms in ICCMA’21. From the analysis of the results, we noticed that i) dynamic recomputation of solutions leads to significant performance improvements, ii) approximation provides much faster results with satisfactory accuracy, and iii) classical solvers improved with respect to previous editions, thus revealing advancement in state of the art.},
-selected={true},
-}
 
 @article{AIC2024b,
 author = {Jean Lieber and Jean-Guy Mailly and Pierre Marquis and Henri Prade and François Rollin},
@@ -264,6 +265,19 @@ abstract={This paper addresses the issue of the dynamic enforcement of a constra
 
 
 %%% International Conferences
+@inproceedings{sac2025,
+    author = {Jean-Guy Mailly},
+    title = {Reasoning with Plausibility in Incomplete Argumentation Frameworks},
+    booktitle = {Proceedings of the 40th ACM/SIGAPP Symposium On Applied Computing ({SAC} 2025)},
+    year = {2025},
+    bibtex_show={true},
+    selected={true},
+    abstract = {In the realm of abstract argumentation, Incomplete Argumentation Frameworks (IAFs), i.e. argumentation frameworks such that some arguments and attacks can be uncertain, have received much attention in the last decade. The most classical reasoning approach consists in using completions, which are argumentation frameworks representing all the possible ways to decide about the actual existence of the uncertain elements. Standard decision problems (like verifying whether a set of arguments is acceptable) can be adapted in two variants: verifying whether the property of interest holds for some completion, or for each completion. In this setting, all completions represent equally plausible scenarios for the agent, which is not always a realistic hypothesis in real world situations.
+In this paper, we propose IAFs with Plausibility (pIAFs), a generalization of the IAF model where the agent is able to reason about the relative plausibility of completions. We study the complexity of the usual decision problems of IAFs, adapted to this new model. We also introduce new decision problems concerning the relative plausibility of extensions and provide complexity upper bounds for these new problems as well.},
+    note = {To appear},
+abbr={SAC},
+}
+
 @inproceedings{ecai2024,
     author = {Aurélie Beynier and Jean-Guy Mailly and Nicolas Maudet and Anaëlle Wilczynski},
     title = {Explaining the Lack of Locally Envy-Free Allocations},
