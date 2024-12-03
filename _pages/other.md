@@ -40,6 +40,8 @@ of LIPADE
 
 ### Programm Committee
 - 18th European Conference on Symbolic and Quantitative Approaches to Reasoning with Uncertainty (ECSQARU 2025) - [More details](https://ecsqaru2025.krportal.org)
+- 34th International Joint Conference on Artificial Intelligence (IJCAI 2025) - [More details](https://2025.ijcai.org)
+- Twenty-Fourth International Conference on Autonomous Agents and Multiagent Systems (AAMAS 2025) - Doctoral Consortium - [More details](https://aamas2025.org/index.php/conference/calls/call-for-contributions-to-the-doctoral-consortium/)
 - Twenty-Fourth International Conference on Autonomous Agents and Multiagent Systems (AAMAS 2025) - Special Track on Blue Sky Ideas - [More details](https://aamas2025.org/index.php/conference/calls/call-for-blue-sky-ideas/)
 - Joint Workshop on Knowledge Diversity and Cognitive Aspects of KR (KoDis/CAKR 2024) - [More details](http://kodis-cakr24.krportal.org/index.htm)
 - Tenth International Conference on Computational Models of Argument (COMMA 2024) - [More details](http://comma2024.krportal.org)
