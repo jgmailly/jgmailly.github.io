@@ -13,6 +13,8 @@ nav_order: 4
 Since January 2018, I am a member of the [International Competition on
 Computational Models of Argumentation](http://argumentationcompetition.org) (ICCMA) Steering Committee. Moreover, from October 2019 to November 2023, I was the secretary of the ICCMA Steering Committee, and since November 2023 I am the president of the ICCMA Steering Committee.
 
+Since January 2025, I am a member of the board (*conseil d'administration*) of the French Association for Artificial Intelligence (*Association Française pour l'Intelligence Artificielle*, [AFIA](https://afia.asso.fr/conseils-dadministration/)).
+
 ### Organisation of events
 - Co-chair of the [Dix-Neuvièmes Journées d'Intelligence Artificielle Fondamentale](https://pfia2025.u-bourgogne.fr/conferences/jiaf/) (JIAF 2025)
 - Co-chair of the [Fifth International Workshop on Systems and Algorithms for Formal Argumentation](http://safa2024.argumentationcompetition.org) (SAFA 2024)
