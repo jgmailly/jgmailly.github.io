@@ -16,6 +16,7 @@ Computational Models of Argumentation](http://argumentationcompetition.org) (ICC
 Since January 2025, I am a member of the board (*conseil d'administration*) of the French Association for Artificial Intelligence (*Association Française pour l'Intelligence Artificielle*, [AFIA](https://afia.asso.fr/conseils-dadministration/)).
 
 ### Organisation of events
+- Co-chair of the [First European Workshop on Argumentation and Uncertainty](https://argu2025.krportal.org) (ArgU 2025)
 - Co-chair of the [Dix-Neuvièmes Journées d'Intelligence Artificielle Fondamentale](https://pfia2025.u-bourgogne.fr/conferences/jiaf/) (JIAF 2025)
 - Co-chair of the [Fifth International Workshop on Systems and Algorithms for Formal Argumentation](http://safa2024.argumentationcompetition.org) (SAFA 2024)
 - Co-chair of the [Dix-Huitièmes Journées d'Intelligence Artificielle Fondamentale](https://pfia2024.univ-lr.fr/conférences/jiaf/) (JIAF 2024)
