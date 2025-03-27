@@ -100,7 +100,6 @@ abbr = {IJAR},
 html = {https://doi.org/10.1016/j.ijar.2024.109282},
 bibtex_show={true},
 abstract={Incomplete Argumentation Frameworks (IAFs) enrich classical abstract argumentation with arguments and attacks whose actual existence is questionable. The usual reasoning approaches rely on the notion of completion, i.e. standard AFs representing ``possible worlds'' compatible with the uncertain information encoded in the IAF. Recently, extension-based semantics for IAFs that do not rely on the notion of completion have been defined, using instead new versions of conflict-freeness and defense that take into account the (certain or uncertain) nature of arguments and attacks. In this paper, we give new insights on both the ``completion-based'' and the ``direct'' reasoning approaches. First, we adapt the well-known grounded semantics to this framework in two different versions that do not rely on completions. After determining that our new  semantics are polynomially computable, we provide a principle-based analysis of these semantics, as well as the ``direct'' semantics previously defined in the literature, namely the complete, preferred and stable semantics. Finally, we also provide new results regarding the satisfaction of principles by the classical ``completion-based'' semantics.},
-selected={true},
 }
 
 
@@ -117,7 +116,6 @@ doi={10.3233/AIC-220322},
   pdf={papers/artificial_stupidity_aic.pdf},
 bibtex_show={true},
 abstract={In a recently published book, the French writer and comedian François Rollin has discussed various aspects of the notion of stupidity, including artificial stupidity, the stupid counterpart of artificial intelligence. His claim is that a system of artificial stupidity is a system that provides wrong answers to any task it should solve, leading to absurd solutions in most cases. We believe that this claim is (at least partially) false and that designing artificial stupidity is not as trivial as it seems. In this article, we discuss why and how one could design a system of artificial stupidity. We believe that such a reflection on (artificial) stupidity can bring about some interesting insights about (artificial) intelligence.},
-selected={true},
 }
 
 @article{AIC2024a,
@@ -133,7 +131,6 @@ bibtex_show={true},
 html={https://hal.science/hal-04596791v1/document},
 doi = {10.3233/AIC-220298},
 abstract={Operations like belief change or merging have been adapted to the context of abstract argumentation. However, these operations may require to express some uncertainty or some disjunction in the result, which is not representable in classical AFs. For this reason, some of these earlier works require a set of AFs or a set of extensions as the outcome of the operation, somehow to represent a “disjunction” of AFs or extensions. In parallel, the notion of Incomplete AFs (IAFs) has been developed recently. It corresponds to AFs where the existence of some arguments or attacks may be uncertain. Each IAF can be associated with a set of classical AFs called completions, that correspond to different ways of resolving the uncertainty. While these IAFs could be good candidates for a compact representation of a disjunction of AFs, we prove that this model is not expressive enough. Then we introduce Constrained IAFs, that include a propositional formula allowing to select the set of completions used for reasoning. We prove that this model is expressive enough for representing any set of AFs, or any set of extensions. Moreover, we study the complexity of various decision problems related to the verification of extensions and the acceptability of arguments. While some of them are one level higher in the polynomial hierarchy (compared to their counterpart with standard IAFs), most of them have the same complexity than in the case of IAFs. Finally, we show that CIAFs can be used to model a new form of extension enforcement, where the possible evolutions of an AF are taken into account and modeled by the completions of the CIAF.},
-selected={true},
 }
 
 @article{JLC2023,
@@ -265,6 +262,17 @@ abstract={This paper addresses the issue of the dynamic enforcement of a constra
 
 
 %%% International Conferences
+@inproceedings{clar2025,
+  title = {Incomplete Higher-Order Abstract Argumentation Frameworks},
+  author = {Sylvie Doutre, Marie-Christine Lagasquie-Schiex and Jean-Guy Mailly and Antonio Yuste-Ginel},
+  booktitle = {Proceedings of the 6th International Conference on Logic and Argumentation (CLAR 2025)},
+  year = {2025},
+abbr={CLAR},
+note={To appear},
+bibtex_show={true},
+selected={true},
+}
+
 @inproceedings{sac2025,
     author = {Jean-Guy Mailly},
     title = {Reasoning with Plausibility in Incomplete Argumentation Frameworks},
@@ -288,7 +296,6 @@ abbr={SAC},
     url = {https://ebooks.iospress.nl/volumearticle/69995},
     html = {https://ebooks.iospress.nl/volumearticle/69995},
     bibtex_show={true},
-    selected={true},
     abstract = {In fair division, local envy-freeness is a desirable property which has been thoroughly studied in recent years. In this paper, we study explanations which can be given to explain that no allocation of items can satisfy this criterion, in the house allocation setting where agents receive a single item. While MUSes are key concepts to extract explanations, they cannot be used as such: (i) they highly depend on the initial encoding of the problem; (ii) they are flat structures which fall short of capturing the dynamics of explanations; (iii) they typically come in large number and exhibit great diversity. In this paper we provide two SAT encodings of the problem which enable us to extract MUS when instances are unsatisfiable. We build a dynamic graph structure which allows to follow step-by-step the explanation. Finally, we propose several criteria to select MUSes, some of them being based on the MUS structure, while others rely on this original graphical explanation structure. We give theoretical bounds on these metrics, showing that they can vary significantly for some instances. Experimental results on synthetic data complement these results and illustrate the impact of the encodings and the relevance of our metrics to select among the many MUSes.},
 abbr={ECAI},
 }
@@ -304,7 +311,6 @@ abbr={ECAI},
     doi = {10.3233/FAIA240307},
     html = {https://ebooks.iospress.nl/volumearticle/69207},
     bibtex_show={true},
-    selected={true},
 }
 
 @inproceedings{aamas2024,
@@ -317,7 +323,6 @@ abbr={AAMAS},
 html = {https://www.ifaamas.org/Proceedings/aamas2024/pdfs/p2351.pdf},
 abstract={In the realm of multi-agent systems, dialogues rooted in argumentation (such as those for persuasion and negotiation) rely on the exchange of arguments among autonomous agents. These agents must continually re-evaluate the acceptability of arguments during each step of the dialogue. The challenge lies in finding efficient computational methods due to the inherent complexity of traditional reasoning tasks in argumentation. In this study, we propose an innovative approach that leverages modern SAT solving techniques to dynamically reassess the acceptability status credulous or skeptical) of arguments, adhering to various classical semantics found in existing literature. Our method capitalizes on the assumption mechanism prevalent in contemporary SAT solvers. While previous approaches to argumentation dynamics have also utilized this mechanism, our method stands out by making minimal assumptions, rendering it highly practical. Through comprehensive experimental evaluation, our approach demonstrates robust scalability and superior performance when compared to existing methods.},
 bibtex_show={true},
-selected={true},
 }
 
 @inproceedings{foiks2024,
@@ -331,7 +336,6 @@ abbr={FoIKS},
 html={https://hal.science/hal-04443886v1},
 abstract={The growing interest in generalizations of Dung's abstract argumentation frameworks has recently led to the simultaneous and independent discovery of a combination of two of these generalizations: Bipolar Argumentation Frameworks (BAFs), where a relation representing supports between arguments is added, and Incomplete Argumentation Frameworks (IAFs), where the existence of arguments and attacks may be uncertain, resulting in the so-called Incomplete Bipolar Abstract Argumentation Frameworks (IBAFs). This paper digs deeper into such a combination by: (i) providing a thoughtful analysis of the existing notions of completion (the hypothetical removal of uncertainty used in IBAFs to reason about argument acceptability); (ii) proposing, motivating and studying new notions of completion; (iii) throwing new complexity results on argument acceptability problems associated with IBAFs; (iv) encoding these reasoning problems into a lightweight version of dynamic logic.},
 bibtex_show={true},
-selected={true},
 }
 
 @InProceedings{ecsqaru2023a,
