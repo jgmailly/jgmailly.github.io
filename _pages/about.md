@@ -12,6 +12,7 @@ profile:
     <p>21 allée de Brienne</p>
     <p> 31000 Toulouse, France</p>
     <p>Office: MF217</p>
+    <p>Phone: +33561128647‬</p>
 
 news: true  # includes a list of news items
 latest_posts: true  # includes a list of the newest posts
