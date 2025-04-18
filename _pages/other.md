@@ -16,11 +16,12 @@ Computational Models of Argumentation](http://argumentationcompetition.org) (ICC
 Since January 2025, I am a member of the board (*conseil d'administration*) of the French Association for Artificial Intelligence (*Association Française pour l'Intelligence Artificielle*, [AFIA](https://afia.asso.fr/conseils-dadministration/)).
 
 ### Organisation of events
+- Co-chair of the [Second International Workshop on Argumentation and Applications](https://argapp-workshop.github.io/2025) (Arg&App 2025)
 - Co-chair of the [First European Workshop on Argumentation and Uncertainty](https://argu2025.krportal.org) (ArgU 2025)
 - Co-chair of the [Dix-Neuvièmes Journées d'Intelligence Artificielle Fondamentale](https://pfia2025.u-bourgogne.fr/conferences/jiaf/) (JIAF 2025)
 - Co-chair of the [Fifth International Workshop on Systems and Algorithms for Formal Argumentation](http://safa2024.argumentationcompetition.org) (SAFA 2024)
 - Co-chair of the [Dix-Huitièmes Journées d'Intelligence Artificielle Fondamentale](https://pfia2024.univ-lr.fr/conférences/jiaf/) (JIAF 2024)
-- Co-chair of the [First International Workshop on Argumentation and Applications](https://argapp-workshop.github.io/) (Arg&App 2023)
+- Co-chair of the [First International Workshop on Argumentation and Applications](https://argapp-workshop.github.io/2023) (Arg&App 2023)
 - Co-chair of the [Fourth International Workshop on Systems and Algorithms for Formal Argumentation](http://safa2022.argumentationcompetition.org/) (SAFA 2022)
 - Chair of the [Fourth International Competition on Computational Models of Argumentation](http://argumentationcompetition.org/2021/) (ICCMA 2021)
 - Co-organizer of the [AMANDE - 2nd Argument Strength Workshop](http://www.math-info.univ-paris5.fr/~jmailly/AMANDE-ArgStrength-2018), IRIT, April 2018
