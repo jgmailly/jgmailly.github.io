@@ -34,6 +34,10 @@ I am also interested in algorithmic solutions (mainly based on SAT) for hard pro
 
 ### Bacherlor/Master internship or project supervision
 
+- 2025: Licence 2 Internship, Cassandre Azeau (2 months), Supervisor
+- 2025: Master 2 Internship, Karla Denia Salas Jimenez,  Co-Supervisor with [Laurent Perrussel](https://www.irit.fr/~Laurent.Perrussel/)
+- 2025: Engineering School Internship (6 months), Cesar Philippe,  Co-Supervisor with [Laurent Perrussel](https://www.irit.fr/~Laurent.Perrussel/)
+- 2024: Master 2 Research Assistant (6 months), Christina Berghegger,  Co-Supervisor with [Laurent Perrussel](https://www.irit.fr/~Laurent.Perrussel/)
 - 2023: Master 1 Mentored Project (1 semester), Farouk Bennai and Yanis Kouadri, Co-Supervisor with [Elise Bonzon](https://helios2.mi.parisdescartes.fr/~bonzon/index.htm)
 - 2022: Master 1 Mentored Project (1 semester), Lamine Jau and Salah Bouchama, Co-Supervisor with [Julien Rossit](http://helios.mi.parisdescartes.fr/~jrossit/)
 - 2022: Master 1 Mentored Project (1 semester), Maissa Arbi and Manel Bensalem, Co-Supervisor with [Jérôme Delobelle](https://helios2.mi.parisdescartes.fr/~jdelobel/)
@@ -64,6 +68,7 @@ I am also interested in algorithmic solutions (mainly based on SAT) for hard pro
 - [Jérôme Delobelle](http://helios.mi.parisdescartes.fr/~jdelobel/), LIPADE, Université Paris Cité
 - [Yannis Dimopoulos](http://www.cs.ucy.ac.cy/~yannis/), University of Cyprus
 - [Sylvie Doutre](https://www.irit.fr/~Sylvie.Doutre/), IRIT, Université de Toulouse 1 - CNRS
+- Thalya Fossey, LIPADE, Université Paris Cité
 - Serigne Gning, Université Paris Cité
 - Fabrice Gaignier, Université Paris Cité
 - [Adrian Haret](http://dbai.tuwien.ac.at/staff/haret/), Institute of Information Systems, TU Wien
