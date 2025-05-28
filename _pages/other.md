@@ -19,6 +19,8 @@ Since January 2025, I am a member of the board (*conseil d'administration*) of t
 - Co-chair of the [Second International Workshop on Argumentation and Applications](https://argapp-workshop.github.io/2025) (Arg&App 2025)
 - Co-chair of the [First European Workshop on Argumentation and Uncertainty](https://argu2025.krportal.org) (ArgU 2025)
 - Co-chair of the [Dix-Neuvièmes Journées d'Intelligence Artificielle Fondamentale](https://pfia2025.u-bourgogne.fr/conferences/jiaf/) (JIAF 2025)
+- Co-organiser of the [Journée Argumentation et Explicabilité](https://sites.google.com/view/argumentation-explicabilite/), IRIT, May 2025
+- Organizer of the [First Workshop on Artificial Intelligence, Data, Algorithms and Law](https://www.irit.fr/aidal/events/first-aidal-workshop/), IRIT, October 2024
 - Co-chair of the [Fifth International Workshop on Systems and Algorithms for Formal Argumentation](http://safa2024.argumentationcompetition.org) (SAFA 2024)
 - Co-chair of the [Dix-Huitièmes Journées d'Intelligence Artificielle Fondamentale](https://pfia2024.univ-lr.fr/conférences/jiaf/) (JIAF 2024)
 - Co-chair of the [First International Workshop on Argumentation and Applications](https://argapp-workshop.github.io/2023) (Arg&App 2023)
@@ -41,8 +43,12 @@ of LIPADE
 - Since 2021: I am a member of the editorial board of [Argument & Computation](https://www.iospress.nl/journal/argument-computation/?tab=editorial-board).
 
 ### Programm Committee
-- 18th European Conference on Symbolic and Quantitative Approaches to Reasoning with Uncertainty (ECSQARU 2025) - [More details](https://ecsqaru2025.krportal.org)
-- 34th International Joint Conference on Artificial Intelligence (IJCAI 2025) - [More details](https://2025.ijcai.org)
+- Eleventh Workshop on Formal and Cognitive Reasoning (FCR 2025) - [More details](https://fcr.krportal.org/2025/index.html#committees)
+- Eighteenth European Conference on Symbolic and Quantitative Approaches to Reasoning with Uncertainty (ECSQARU 2025) - [More details](https://ecsqaru2025.krportal.org)
+- First International Workshop on Trends in Knowledge Representation and Reasoning (TKR 2025)- [More details](https://tkr2025.krportal.org)
+- Fourteenth Conference on Prestigious Applications of Intelligent Systems (PAIS 2025) - [More details](https://ecai2025.org/call-for-pais-papers/)
+- Twenty-eighth European Conference on Artificial Intelligence (ECAI 2025) - [More details](https://ecai2025.org)
+- Thirty-Fourth International Joint Conference on Artificial Intelligence (IJCAI 2025) - [More details](https://2025.ijcai.org)
 - Twenty-Fourth International Conference on Autonomous Agents and Multiagent Systems (AAMAS 2025) - Doctoral Consortium - [More details](https://aamas2025.org/index.php/conference/calls/call-for-contributions-to-the-doctoral-consortium/)
 - Twenty-Fourth International Conference on Autonomous Agents and Multiagent Systems (AAMAS 2025) - Special Track on Blue Sky Ideas - [More details](https://aamas2025.org/index.php/conference/calls/call-for-blue-sky-ideas/)
 - Joint Workshop on Knowledge Diversity and Cognitive Aspects of KR (KoDis/CAKR 2024) - [More details](http://kodis-cakr24.krportal.org/index.htm)
