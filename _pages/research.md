@@ -34,9 +34,11 @@ I am also interested in algorithmic solutions (mainly based on SAT) for hard pro
 
 ### Bacherlor/Master internship or project supervision
 
+- 2025: Engineering School Internship (3 months), Marius Pascal, Co-Supervisor with [Hélène Christodoulou](https://helenechristodoulou.com)
+- 2025: Engineering School Internship (3 months), Thomas Ecobichon, Co-Supervisor with [Mathieu Carpentier](https://mathieucarpentier.wixsite.com/mathieucarpentier) and [Sylvie Doutre](https://sites.google.com/view/sylviedoutre)
 - 2025: Licence 2 Internship, Cassandre Azeau (2 months), Supervisor
 - 2025: Master 2 Internship, Karla Denia Salas Jimenez,  Co-Supervisor with [Laurent Perrussel](https://www.irit.fr/~Laurent.Perrussel/)
-- 2025: Engineering School Internship (6 months), Cesar Philippe,  Co-Supervisor with [Laurent Perrussel](https://www.irit.fr/~Laurent.Perrussel/)
+- 2025: Engineering School Internship (6 months), César Philippe,  Co-Supervisor with [Laurent Perrussel](https://www.irit.fr/~Laurent.Perrussel/)
 - 2024: Master 2 Research Assistant (6 months), Christina Berghegger,  Co-Supervisor with [Laurent Perrussel](https://www.irit.fr/~Laurent.Perrussel/)
 - 2023: Master 1 Mentored Project (1 semester), Farouk Bennai and Yanis Kouadri, Co-Supervisor with [Elise Bonzon](https://helios2.mi.parisdescartes.fr/~bonzon/index.htm)
 - 2022: Master 1 Mentored Project (1 semester), Lamine Jau and Salah Bouchama, Co-Supervisor with [Julien Rossit](http://helios.mi.parisdescartes.fr/~jrossit/)
