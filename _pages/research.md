@@ -62,6 +62,7 @@ I am also interested in algorithmic solutions (mainly based on SAT) for hard pro
 ## Co-authors
 - Yohann Bacquey, LIPADE, Université Paris Cité
 - [Ringo Baumann](https://www.informatik.uni-leipzig.de/~baumann/), University of Leipzig
+- Christina Berghegger, IRIT, Université Toulouse Capitole
 - [Aurélie Beynier](https://webia.lip6.fr/~beyniera/), LIP6, Sorbonne Université
 - [Gerhard Brewka](https://www.informatik.uni-leipzig.de/~brewka/), University of Leipzig
 - [Paul Cibier](https://pi-univers.fr), Université Paris Cité
@@ -83,9 +84,13 @@ I am also interested in algorithmic solutions (mainly based on SAT) for hard pro
 - [Pierre Marquis](http://www.cril.univ-artois.fr/~marquis/), CRIL, Université d'Artois - CNRS
 - [Nicolas Maudet](https://nmaudet.gitlab.io), LIP6, Sorbonne Université
 - [Pavlos Moraitis](http://www.math-info.univ-paris5.fr/~moraitis/), LIPADE, Université Paris Cité
+- Leila Moudjari, IRIT, Université Toulouse Capitole
+- [Laurent Perrussel](https://www.irit.fr/~Laurent.Perrussel/), IRIT, Université Toulouse Capitole
+- César Philippe, Université Toulouse Capitole
 - [Henri Prade](https://www.irit.fr/~Henri.Prade/), IRIT, CNRS
 - [François Rollin](https://fr.wikipedia.org/wiki/François_Rollin)
 - [Julien Rossit](http://www.math-info.univ-paris5.fr/~jrossit/), LIPADE, Université Paris Cité
+- Karla Salas-Jimenez, IRIT, Université Toulouse Capitole
 - [Johannes P. Wallner](https://wallner.ist.tugraz.at/), TU Graz
 - [Anaëlle Wilczynski](https://anaellewilczynski.pages.centralesupelec.fr/website/), MICS, CentraleSupélec
 - [Stefan Woltran](http://dbai.tuwien.ac.at/staff/woltran/), Institute of Information Systems, TU Wien
