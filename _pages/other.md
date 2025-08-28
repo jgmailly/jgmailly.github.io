@@ -13,7 +13,7 @@ nav_order: 4
 Since January 2018, I am a member of the [International Competition on
 Computational Models of Argumentation](http://argumentationcompetition.org) (ICCMA) Steering Committee. Moreover, from October 2019 to November 2023, I was the secretary of the ICCMA Steering Committee, and since November 2023 I am the president of the ICCMA Steering Committee.
 
-Since January 2025, I am a member of the board (*conseil d'administration*) of the French Association for Artificial Intelligence (*Association Française pour l'Intelligence Artificielle*, [AFIA](https://afia.asso.fr/conseils-dadministration/)).
+Since January 2025, I am an elected member of the board (*conseil d'administration*) of the French Association for Artificial Intelligence (*Association Française pour l'Intelligence Artificielle*, [AFIA](https://afia.asso.fr/conseils-dadministration/)).
 
 ### Organisation of events
 - Co-chair of the [Second International Workshop on Argumentation and Applications](https://argapp-workshop.github.io/2025) (Arg&App 2025)
@@ -43,6 +43,7 @@ of LIPADE
 - Since 2021: I am a member of the editorial board of [Argument & Computation](https://www.iospress.nl/journal/argument-computation/?tab=editorial-board).
 
 ### Programm Committee
+- Fortieth AAAI Conference on Artificial Intelligence (AAAI 2026) - [More details](https://aaai.org/conference/aaai/aaai-26/)
 - Eleventh Workshop on Formal and Cognitive Reasoning (FCR 2025) - [More details](https://fcr.krportal.org/2025/index.html#committees)
 - Eighteenth European Conference on Symbolic and Quantitative Approaches to Reasoning with Uncertainty (ECSQARU 2025) - [More details](https://ecsqaru2025.krportal.org)
 - First International Workshop on Trends in Knowledge Representation and Reasoning (TKR 2025)- [More details](https://tkr2025.krportal.org)
@@ -135,7 +136,7 @@ of LIPADE
 - Reviewer for the Twenty-First European Conference on Artificial Intelligence (ECAI 2014) - [More details](http://www.ecai2014.org/)
 
 ## Thesis Reviewer/Defense Committee Member
-- Member of the defense committee (*examinateur*) of Yann Munro (Sorbonne Université, Paris, 2024)
-- External thesis reviewer of Antonio Yuste-Ginel (University of Malaga, 2022)
+- Member of the defense committee (*examinateur*) of [Yann Munro](https://lip6.fr/Yann.Munro) (Sorbonne Université, Paris, 2024)
+- External thesis reviewer of [Antonio Yuste-Ginel](https://sites.google.com/view/antonioyusteginel) (University of Malaga, 2022)
 - Member of the defense committee (*examinateur*) of Mickael Lafages (Université Paul Sabatier, Toulouse, 2021)
-- Pre-examiner of the Ph.D. thesis of Andreas Niskanen (University of Helsinki, 2020)
+- Pre-examiner of the Ph.D. thesis of [Andreas Niskanen](https://www.cs.helsinki.fi/u/andreasn/) (University of Helsinki, 2020)
