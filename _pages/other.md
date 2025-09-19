@@ -16,6 +16,7 @@ Computational Models of Argumentation](http://argumentationcompetition.org) (ICC
 Since January 2025, I am an elected member of the board (*conseil d'administration*) of the French Association for Artificial Intelligence (*Association Française pour l'Intelligence Artificielle*, [AFIA](https://afia.asso.fr/conseils-dadministration/)).
 
 ### Organisation of events
+- Co-chair of the [Workshop on Argumentation and Online Debates](https://aggreey.github.io/workshop/)
 - Co-chair of the [Second International Workshop on Argumentation and Applications](https://argapp-workshop.github.io/2025) (Arg&App 2025)
 - Co-chair of the [First European Workshop on Argumentation and Uncertainty](https://argu2025.krportal.org) (ArgU 2025)
 - Co-chair of the [Dix-Neuvièmes Journées d'Intelligence Artificielle Fondamentale](https://pfia2025.u-bourgogne.fr/conferences/jiaf/) (JIAF 2025)
@@ -43,6 +44,8 @@ of LIPADE
 - Since 2021: I am a member of the editorial board of [Argument & Computation](https://www.iospress.nl/journal/argument-computation/?tab=editorial-board).
 
 ### Programm Committee
+- Fifth International Workshop on Logics for New-Generation Artificial Intelligence (LNGAI 2025) - [More details](https://www.zlaire.net/lngai2025/)
+- Fourty-First ACM/SIGAPP Symposium On Applied Computing (SAC 2026) - Track on Knowledge Representation and Reasoning - [More details](https://krarlab.dmi.unipg.it/krrtrack/2026/)
 - Fortieth AAAI Conference on Artificial Intelligence (AAAI 2026) - [More details](https://aaai.org/conference/aaai/aaai-26/)
 - Eleventh Workshop on Formal and Cognitive Reasoning (FCR 2025) - [More details](https://fcr.krportal.org/2025/index.html#committees)
 - Eighteenth European Conference on Symbolic and Quantitative Approaches to Reasoning with Uncertainty (ECSQARU 2025) - [More details](https://ecsqaru2025.krportal.org)
