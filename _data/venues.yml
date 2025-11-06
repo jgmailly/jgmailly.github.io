@@ -76,9 +76,15 @@
   url: https://argapp-workshop.github.io
   color: "#990100"
 
+"ArgU":
+  color: "#990100"
+
 "NMR":
   url: https://nmr.cs.tu-dortmund.de
   color: "#990100"
+
+"RDPIA":
+  color: "#FFA500"
 
 "JIAF":
   color: "#FFA500"
