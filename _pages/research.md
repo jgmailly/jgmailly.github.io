@@ -65,12 +65,14 @@ I am also interested in algorithmic solutions (mainly based on SAT) for hard pro
 - Christina Berghegger, IRIT, Université Toulouse Capitole
 - [Aurélie Beynier](https://webia.lip6.fr/~beyniera/), LIP6, Sorbonne Université
 - [Gerhard Brewka](https://www.informatik.uni-leipzig.de/~brewka/), University of Leipzig
+- [Mathieu Carpentier](https://mathieucarpentier.wixsite.com/mathieucarpentier), Toulouse School of Law, Université Toulouse Capitole
 - [Paul Cibier](https://pi-univers.fr), Université Paris Cité
 - [Sylvie Coste-Marquis](http://www.cril.univ-artois.fr/~coste/), CRIL, Université d'Artois - CNRS
 - [Victor David](https://vict0r-david.github.io/), INRIA Sophia-Antipolis
 - [Jérôme Delobelle](http://helios.mi.parisdescartes.fr/~jdelobel/), LIPADE, Université Paris Cité
 - [Yannis Dimopoulos](http://www.cs.ucy.ac.cy/~yannis/), University of Cyprus
-- [Sylvie Doutre](https://www.irit.fr/~Sylvie.Doutre/), IRIT, Université de Toulouse 1 - CNRS
+- [Sylvie Doutre](https://www.irit.fr/~Sylvie.Doutre/), IRIT, Université Toulouse Capitole
+- Thomas Ecobichon, INSA Toulouse
 - Thalya Fossey, LIPADE, Université Paris Cité
 - Serigne Gning, Université Paris Cité
 - Fabrice Gaignier, Université Paris Cité
