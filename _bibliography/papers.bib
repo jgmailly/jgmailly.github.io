@@ -122,6 +122,7 @@ bibtex_show={true},
 abstract={Efficient computation of hard reasoning tasks is a key issue in abstract argumentation. One recent approach is to define approximate algorithms, i.e. methods that provide an answer that may not always be correct, but outperform the exact algorithms regarding the computation runtime. One such approach proposes to use the grounded semantics, which is polynomially computable, as a starting point for determining whether arguments are (credulously or skeptically) accepted with respect to various other extension-based semantics. In this paper, we push further this idea by defining a general family of approaches to evaluate the acceptability of arguments which are not in the grounded extension, neither attacked by it. These approaches rely on gradual semantics to evaluate these arguments. We also propose an approach using an heuristic based on the number of arguments attacked by or attacking an argument, and we show that this last approach, although seemingly different, is actually also an instance of our general family of approaches based on gradual semantics. 
 We have implemented our approaches and provided an empirical study in which we discuss the results and compare our approach with the state-of-the-art approximate algorithms.},
 note = {To appear.},
+selected={true},
 }
 
 @article{argAndComp2025b,
@@ -328,6 +329,29 @@ abstract={This paper addresses the issue of the dynamic enforcement of a constra
 
 
 %%% International Conferences
+@InProceedings{jurix20205a,
+title = {Discovering the Potential of LLMs in Annotating Legal Texts for Argument Mining (Extended Abstract)},
+booktitle = {Proceedings of the 38th {I}nternational {C}onference on {L}egal {K}nowledge and {I}nformation {S}ystems ({JURIX} 2025)},
+author = {Christina Berghegger and César Philippe and Karla Salas-Jimenez and Jean-Guy Mailly and Leila Moudjari and Laurent Perrussel},
+year = {2025},
+bibtex_show={true},  
+abbr={JURIX},
+selected={true},
+note = {To Appear. Poster.}
+}
+
+@InProceedings{jurix20205b,
+title = {A Tool for Handling Unexpected Exceptions in Legal Reasoning},
+booktitle = {Proceedings of the 38th {I}nternational {C}onference on {L}egal {K}nowledge and {I}nformation {S}ystems ({JURIX} 2025)},
+author = {Thomas Ecobichon and Mathieu Carpentier and Sylvie Doutre and Jean-Guy Mailly},
+year = {2025},
+bibtex_show={true},  
+abbr={JURIX},
+selected={true},
+note = {To Appear. Poster.}
+}
+
+
 @InProceedings{kr2025,
 title = {Counterexample-Guided Abstraction Refinement for Assumption-based Argumentation},
 booktitle = {22nd {I}nternational {C}onference on {P}rinciples of {K}nowledge {R}epresentation and {R}easoning ({KR} 2025)},
@@ -336,7 +360,15 @@ year = {2025},
 bibtex_show={true},  
 abbr={KR},
 selected={true},
-note={To appear.},
+doi = {https://doi.org/10.24963/kr.2025/67},
+html = {https://doi.org/10.24963/kr.2025/67},
+pages     = {694--706},
+abstract = {Assumption-Based Argumentation (ABA) is a prominent formalism for structured argumentation, widely applied in domains such as healthcare, law, and robotics.
+Despite its inherent computational complexity, ABA has seen the development of effective techniques that successfully address key tasks, including evaluating the acceptability of literals and computing framework extensions.
+These approaches typically involve translating the initial ABA framework into an intermediate formalism, such as an Answer Set Program or an Abstract Argumentation Framework, which is then encoded into a Boolean satisfiability (SAT) problem.
+However, this translation can lead to large and complex intermediate representations, posing challenges for state-of-the-art SAT solvers.
+In this work, we propose a Counterexample-Guided Abstraction Refinement (CEGAR) approach that bypasses the initial translation step, at the cost of incrementally discovering certain ABA constraints that are not explicitly captured in the initial SAT encoding.
+We analyze the performance of our method and demonstrate that it outperforms state-of-the-art approaches on specific problem classes, while remaining competitive with the best existing solvers more broadly.},
 }
 
 
@@ -345,7 +377,6 @@ title = {Argument-based Multi-Issue Negotiation},
 booktitle = {34th {I}nternational {J}oint {C}onference on {A}rtificial {I}ntelligence ({IJCAI} 2025)},
 author = {Thalya Fossey and Jean-Guy Mailly and Pavlos Moraitis},
 year = {2025},
-note = {To appear},
 bibtex_show={true},
 abbr={IJCAI},
 selected={true},
@@ -353,6 +384,9 @@ note={Supplementary material available: https://hal.science/hal-05064307},
 abstract={Automated negotiation aims at finding agreements between agents with conflicting goals. Existing utility-based approaches guarantee agents satisfaction with negotiation outcomes, especially in multi-issue negotiations 
 where concession mechanisms lead to win-win results. However, they lack explainability and do not consider agents’ beliefs. On the other hand, argument-based approaches provide reasons for accepting or rejecting offers but do not include utility modeling for offers or enable concession mechanisms in multi-issue settings. We propose a novel hybrid approach combining both types of approaches.
 The utility-based component enables agents to make concessions on complex negotiation objects to achieve win-win outcomes, while the argumentation component ensures that accepted offers align with the agents' personal argumentation theories. These theories represent their beliefs, encoding various profiles, ethical considerations, social norms, or legal principles.},
+doi = {https://doi.org/10.24963/ijcai.2025/10},
+html = {https://doi.org/10.24963/ijcai.2025/10},
+pages = {81--89},
 }
 
 @inproceedings{clar2025,
@@ -700,9 +734,11 @@ title = {Similarity {M}easures for {F}irst-{O}rder {L}ogical {A}rguments},
 booktitle = {23rd {I}nternational {W}orkshop on {N}on-{M}onotonic {R}easoning ({NMR} 2025)},
 author = {Victor David and Jérôme Delobelle and Jean-Guy Mailly},
 year = {2025},
+pages = {46--59},
 bibtex_show={true},
 abbr={NMR},
-note = {To appear.},
+url = {https://ceur-ws.org/Vol-4071/paper4.pdf},
+html = {https://ceur-ws.org/Vol-4071/paper4.pdf},
 }
 
 @InProceedings{argapp2025,
@@ -712,7 +748,10 @@ author = {Christina Berghegger and César Philippe and Karla Salas-Jimenez and J
 year = {2025},
 bibtex_show={true},
 abbr={ArgApp},
-abstract={Legal reasoning is a key domain for the application of computational argumentation techniques. However, the scarcity of datasets of  annotated legal text tailored for argumentation-related tasks—aside from a single dataset comprising decisions from the European Court of Human Rights (ECHR)—poses a significant challenge to developing automated legal reasoning systems grounded in formal argumentation techniques. To address this challenge, we explore the use of Large Language Models (LLMs) to facilitate the annotation of legal texts, specifically focusing on identifying premises and claims within the ECHR dataset. Our preliminary results demonstrate the promising potential of LLMs to assist legal experts in annotating additional legal corpora. This advancement paves the way for more robust, argumentation-driven automated reasoning systems in the legal domain. }
+abstract={Legal reasoning is a key domain for the application of computational argumentation techniques. However, the scarcity of datasets of  annotated legal text tailored for argumentation-related tasks—aside from a single dataset comprising decisions from the European Court of Human Rights (ECHR)—poses a significant challenge to developing automated legal reasoning systems grounded in formal argumentation techniques. To address this challenge, we explore the use of Large Language Models (LLMs) to facilitate the annotation of legal texts, specifically focusing on identifying premises and claims within the ECHR dataset. Our preliminary results demonstrate the promising potential of LLMs to assist legal experts in annotating additional legal corpora. This advancement paves the way for more robust, argumentation-driven automated reasoning systems in the legal domain. },
+url = {https://hal.science/hal-05339537/document},
+html = {https://hal.science/hal-05339537/document},
+pages = {33--44},
 }
 
 @InProceedings{argapp2023a,
