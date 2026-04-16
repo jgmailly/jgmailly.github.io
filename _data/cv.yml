@@ -65,6 +65,10 @@
 - title: Honors and Awards
   type: time_table
   contents:
+    - year: 2025
+      items: 
+        - Scalop ranked first in 10 subtracks of ICCMA 2025
+        - Fargo-Timelimited-FLiGS ranked first in 3 subtracks of ICCMA 2025
     - year: 2023
       items: 
         - Crustabri ranked first in 12 subtracks of ICCMA 2023
@@ -89,6 +93,10 @@
         - Explainability based on argumentation.
         - Argument-based negotiation.
         - Argumentation for legal reasoning.
+    - title: LLMs and Reasoning.
+      items:
+        - Arguments/rules extraction from texts.
+        - Text to logic translation.
     - title: Belief change.
       items:
         - Belief revision.

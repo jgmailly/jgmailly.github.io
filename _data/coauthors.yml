@@ -74,6 +74,10 @@
   - firstname: ["Marco", "M."]
     url: https://www.dibris.unige.it/maratea-marco
 
+"Maris":
+  - firstname: ["Frédéric", "F."]
+    url: https://www.irit.fr/~Frederic.Maris/
+
 "Marquis":
   - firstname: ["Pierre", "P."]
     url: http://www.cril.univ-artois.fr/~marquis/
@@ -100,7 +104,7 @@
 
 "Wallner":
   - firstname: ["Johannes Peter", "Johannes P.", "J. P."]
-    url: https://wallner.ist.tugraz.at/
+    url: https://wallner.sai.tugraz.at/
 
 "Woltran":
   - firstname: ["Stefan", "S."]
