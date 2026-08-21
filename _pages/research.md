@@ -29,11 +29,16 @@ I am also interested in algorithmic solutions (mainly based on SAT) for hard pro
 ## Students supervision
 ### PhD Students
 
-- 2022 - ...: Ph.D. Co-Supervisor with [Pavlos Moraitis](http://helios.mi.parisdescartes.fr/~moraitis/), Thalya Fossey
-- 2020 - 2022: Ph.D. Co-Supervisor with [Pavlos Moraitis](http://helios.mi.parisdescartes.fr/~moraitis/) and [Julien Rossit](http://helios.mi.parisdescartes.fr/~jrossit/), Yohann Bacquey
+- 2025 - ...: [Karla Salas-Jimenez](https://www.irit.fr/~Karla-Denia.Salas-Jimenez/)'s Ph.D. Co-Supervisor (with [Laurent Perrussel](https://www.irit.fr/~Laurent.Perrussel/))
+- 2022 - 2026: [Thalya Fossey](https://www.linkedin.com/in/thalya-fossey-5a132a174/)'s Ph.D. Co-Supervisor (with [Pavlos Moraitis](http://helios.mi.parisdescartes.fr/~moraitis/))
+
 
 ### Bacherlor/Master internship or project supervision
 
+- 2026: Master 1 Mentored Project (1 month), Mohamad Khreiss, Larissa Abboud, Aleksandra Ershova and Giancarlo Diaz Pastora, Supervisor
+- 2026: Engineering School Internship (2 months), Alexandre Guy, Co-Supervisor with [Sylvie Doutre](https://sites.google.com/view/sylviedoutre)
+- 2026: Licence 3 Internship (2 months), Clément Adrot), Co-Supervisor with [Jean Lieber](https://members.loria.fr/JLieber/)
+- 2026: Master 2 Internship (6 months), Hélène Sicre-Stell, Co-Supervisor with [Julien Bétaille](https://tree.univ-pau.fr/fr/organisation/membres/cv-jbetaille-fr.html)
 - 2025: Engineering School Internship (3 months), Marius Pascal, Co-Supervisor with [Hélène Christodoulou](https://helenechristodoulou.com)
 - 2025: Engineering School Internship (3 months), Thomas Ecobichon, Co-Supervisor with [Mathieu Carpentier](https://mathieucarpentier.wixsite.com/mathieucarpentier) and [Sylvie Doutre](https://sites.google.com/view/sylviedoutre)
 - 2025: Licence 2 Internship, Cassandre Azeau (2 months), Supervisor
