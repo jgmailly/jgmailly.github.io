@@ -1,4 +1,15 @@
 %%% Proceedings edition
+@proceedings{procRDPIA2026,
+  editor    = {Aurélie Beynier and Jean-Guy Mailly},
+  title     = {Actes de la 1ère Conférence Francophone sur le Raisonnement, la Décision et la Planification en Intelligence Artificielle ({RDPIA} 2026)},
+  publisher    = {AFIA},
+  year      = {2026},
+  url = {https://hal.science/hal-05719820},
+  html = {https://hal.science/hal-05719820},
+  bibtex_show={true},
+  abbr={RDPIA},
+}
+
 @proceedings{procArgApp2025,
   editor    = {Oana Cocarascu and
                Sylvie Doutre and
@@ -112,16 +123,18 @@ abbr={JIAF},
 }
 
 %%% International Journal
-@article{ijar2025,
+@article{ijar2026,
 author = {Jérôme Delobelle and Jean-Guy Mailly and Julien Rossit},
 title = {ARIPOTER: Solvers for Approximate Reasoning based on Grounded Semantics},
 journal = {International Journal of Approximate Reasoning},
-year = {2025},
+year = {2026},
 abbr = {IJAR},
 bibtex_show={true},
 abstract={Efficient computation of hard reasoning tasks is a key issue in abstract argumentation. One recent approach is to define approximate algorithms, i.e. methods that provide an answer that may not always be correct, but outperform the exact algorithms regarding the computation runtime. One such approach proposes to use the grounded semantics, which is polynomially computable, as a starting point for determining whether arguments are (credulously or skeptically) accepted with respect to various other extension-based semantics. In this paper, we push further this idea by defining a general family of approaches to evaluate the acceptability of arguments which are not in the grounded extension, neither attacked by it. These approaches rely on gradual semantics to evaluate these arguments. We also propose an approach using an heuristic based on the number of arguments attacked by or attacking an argument, and we show that this last approach, although seemingly different, is actually also an instance of our general family of approaches based on gradual semantics. 
 We have implemented our approaches and provided an empirical study in which we discuss the results and compare our approach with the state-of-the-art approximate algorithms.},
-note = {To appear.},
+volume = {189},
+doi = {https://doi.org/10.1016/j.ijar.2025.109599},
+html = {https://doi.org/10.1016/j.ijar.2025.109599},
 selected={true},
 }
 
@@ -138,7 +151,6 @@ number = {3},
 abbr = {ArgComp},
 bibtex_show={true},
 abstract={Recent advancements in algorithms for abstract argumentation make it possible now to solve reasoning problems even with argumentation frameworks of large size, as demonstrated by the results of the various editions of the International Competition on Computational Models of Argumentation (ICCMA).  However, the solvers participating to the competition may be hard to use for non-expert  programmers, especially if they need to incorporate these algorithms in their own code instead of simply using the command-line interface.  Moreover, some ICCMA solvers focus on the ICCMA tracks, and do not implement algorithms for other problems. In this paper we describe pygarg, a Python implementation of the SAT-based approach used in the argumentation solver CoQuiAAS. Contrary to CoQuiAAS and most of the participants to the various editions of ICCMA, pygarg incorporates all problems that have been considered in the main track of any edition of ICCMA. We show how to easily use pygarg via a command-line interface inspired by ICCMA competitions, and then how it can be used in other Python scripts as a third-party library.},
-selected={true},
 }
 
 @article{argAndComp2025,
@@ -153,7 +165,6 @@ abbr = {ArgComp},
 bibtex_show={true},
 html={https://doi.org/10.3233/AAC-230013},
 abstract={The International Competition on Computational Models of Argumentation (ICCMA) focuses on reasoning tasks in abstract argumentation frameworks. Submitted solvers are tested on a selected collection of benchmark instances, including artificially generated argumentation frameworks and some frameworks formalizing real-world problems. This paper presents the novelties introduced in the organization of the Third (2019) and Fourth (2021) editions of the competition. In particular, we proposed new tracks to competitors, one dedicated to dynamic solvers (i.e., solvers that incrementally compute solutions of frameworks obtained by incrementally modifying original ones) in ICCMA’19 and one dedicated to approximate algorithms in ICCMA’21. From the analysis of the results, we noticed that i) dynamic recomputation of solutions leads to significant performance improvements, ii) approximation provides much faster results with satisfactory accuracy, and iii) classical solvers improved with respect to previous editions, thus revealing advancement in state of the art.},
-selected={true},
 }
 
 @article{ijar2024,
@@ -329,6 +340,26 @@ abstract={This paper addresses the issue of the dynamic enforcement of a constra
 
 
 %%% International Conferences
+@InProceedings{comma2026,
+title = {A Neural Approach for Incomplete Argumentation Frameworks},
+booktitle = {Proceedings of the 11th {I}nternational {C}onference on {C}omputational {M}odels of {A}rgument ({COMMA} 2026)},
+author = {Cassandre Azeau and Jean-Guy Mailly},
+year = {2026},
+abbr={COMMA},
+note = {To appear},
+selected={true},
+}
+
+@InProceedings{ijcai2026,
+title = {A Versatile Framework for Formula-Based Enforcement and Synthesis in Abstract Argumentation},
+booktitle = {Proceedings of the 35th {I}nternational {J}oint {C}onference on {A}rtificial {I}ntelligence ({IJCAI} 2026)},
+author = {Andreas Niskanen and Jean-Guy Mailly and Yannis Dimopoulos and Pavlos Moraitis},
+year = {2026},
+abbr={IJCAI},
+note = {To appear},
+selected={true},
+}
+
 @InProceedings{kr2026,
 title = {Computational Complexity in Timed Argumentation Frameworks},
 booktitle = {23rd {I}nternational {C}onference on {P}rinciples of {K}nowledge {R}epresentation and {R}easoning ({KR} 2026)},
@@ -338,7 +369,8 @@ bibtex_show={true},
 abbr={KR},
 selected={true},
 abstract = {Timed Argumentation Frameworks (TAFs) allow taking into account the availability of arguments and attacks in abstract argumentation. We propose a new reasoning approach for TAFs, where a standard Dung-style AF can be associated with each timepoint. We show that, although this framework is more expressive than Dung's framework, our approach does not lead to an increase in computational complexity for most reasoning problems and classical extension-based semantics.},
-note = {To appear.},
+doi = {10.24963/kr.2026/47},
+html = {doi.org/10.24963/kr.2026/47},
 }
 
 @InProceedings{jurix20205a,
@@ -348,7 +380,6 @@ author = {Christina Berghegger and César Philippe and Karla Salas-Jimenez and J
 year = {2025},
 bibtex_show={true},  
 abbr={JURIX},
-selected={true},
 note = {Poster.}
 }
 
@@ -359,7 +390,6 @@ author = {Thomas Ecobichon and Mathieu Carpentier and Sylvie Doutre and Jean-Guy
 year = {2025},
 bibtex_show={true},  
 abbr={JURIX},
-selected={true},
 note = {Poster.}
 }
 
@@ -371,7 +401,6 @@ author = {Jean-Marie Lagniez and Emmanuel Lonca and Jean-Guy Mailly},
 year = {2025},
 bibtex_show={true},  
 abbr={KR},
-selected={true},
 doi = {https://doi.org/10.24963/kr.2025/67},
 html = {https://doi.org/10.24963/kr.2025/67},
 pages     = {694--706},
@@ -741,6 +770,17 @@ abstract={In this paper, we investigate the revision of argumenta- tion systems 
 
 
 %%% International Workshops
+@InProceedings{nmr2026,
+title = {Ranking-based {S}emantics for {I}ncomplete {A}rgumentation {F}rameworks},
+booktitle = {24th {I}nternational {W}orkshop on {N}on-{M}onotonic {R}easoning ({NMR} 2026)},
+author = {Kenneth Skiba and Jean-Guy Mailly and Jérôme Delobelle},
+year = {2026},
+bibtex_show={true},
+abbr={NMR},
+url = {https://ceur-ws.org/Vol-4239/paper-Skiba-15.pdf},
+html = {https://ceur-ws.org/Vol-4239/paper-Skiba-15.pdf},
+}
+
 @InProceedings{nmr2025,
 title = {Similarity {M}easures for {F}irst-{O}rder {L}ogical {A}rguments},
 booktitle = {23rd {I}nternational {W}orkshop on {N}on-{M}onotonic {R}easoning ({NMR} 2025)},
