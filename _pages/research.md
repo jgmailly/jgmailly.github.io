@@ -11,7 +11,7 @@ nav_order: 1
 My research concerns mainly knowledge representation and reasoning
 (KRR), especially non-monotonic reasoning (NMR). Some keywords:
 
-- Argumentation
+- Formal Argumentation
   - mainly abstract argumentation (Dung's framework and its generalizations),
   - deductive argumentation,
   - argument-based negotiation,
@@ -26,9 +26,12 @@ I am also interested in algorithmic solutions (mainly based on SAT) for hard pro
 - see [CoQuiAAS](http://www.cril.univ-artois.fr/coquiaas/) and [Crustabri](https://www.cril.univ-artois.fr/software/crustabri/) for my work about this topic for abstract argumentation;
 - more recently, resources allocation.
 
+My recent and ongoing work also concerns the use of Large Language Models for extracting information from text, in particular legal argument mining.
+
 ## Students supervision
 ### PhD Students
 
+- 2026 - ...: Bertold Kovács' Ph.D. Co-Supervisor (with [Sylvie Doutre](https://sites.google.com/view/sylviedoutre) and [Umberto Grandi](https://www.irit.fr/~Umberto.Grandi/))
 - 2025 - ...: [Karla Salas-Jimenez](https://www.irit.fr/~Karla-Denia.Salas-Jimenez/)'s Ph.D. Co-Supervisor (with [Laurent Perrussel](https://www.irit.fr/~Laurent.Perrussel/))
 - 2022 - 2026: [Thalya Fossey](https://www.linkedin.com/in/thalya-fossey-5a132a174/)'s Ph.D. Co-Supervisor (with [Pavlos Moraitis](http://helios.mi.parisdescartes.fr/~moraitis/))
 
@@ -88,6 +91,7 @@ I am also interested in algorithmic solutions (mainly based on SAT) for hard pro
 - [Jean Lieber](https://members.loria.fr/JLieber/cv/), LORIA, Université de Lorraine
 - [Emmanuel Lonca](http://www.cril.univ-artois.fr/~lonca/), CRIL, Université d'Artois - CNRS
 - [Marco Maratea](https://www.dibris.unige.it/maratea-marco), DIBRIS, Università di Genova
+- [Frédéric Maris](https://www.irit.fr/~Frederic.Maris/), IRIT, Université de Toulouse
 - [Pierre Marquis](http://www.cril.univ-artois.fr/~marquis/), CRIL, Université d'Artois - CNRS
 - [Nicolas Maudet](https://nmaudet.gitlab.io), LIP6, Sorbonne Université
 - [Pavlos Moraitis](http://www.math-info.univ-paris5.fr/~moraitis/), LIPADE, Université Paris Cité
@@ -97,7 +101,7 @@ I am also interested in algorithmic solutions (mainly based on SAT) for hard pro
 - [Henri Prade](https://www.irit.fr/~Henri.Prade/), IRIT, CNRS
 - [François Rollin](https://fr.wikipedia.org/wiki/François_Rollin)
 - [Julien Rossit](http://www.math-info.univ-paris5.fr/~jrossit/), LIPADE, Université Paris Cité
-- Karla Salas-Jimenez, IRIT, Université Toulouse Capitole
+- [Karla Salas-Jimenez](https://www.irit.fr/~Karla-Denia.Salas-Jimenez/), IRIT, Université Toulouse Capitole
 - [Johannes P. Wallner](https://wallner.ist.tugraz.at/), TU Graz
 - [Anaëlle Wilczynski](https://anaellewilczynski.pages.centralesupelec.fr/website/), MICS, CentraleSupélec
 - [Stefan Woltran](http://dbai.tuwien.ac.at/staff/woltran/), Institute of Information Systems, TU Wien
