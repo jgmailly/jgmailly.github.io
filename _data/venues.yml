@@ -76,6 +76,10 @@
   url: http://argumentationcompetition.org
   color: "#990100"
 
+"CMNA":
+  url: https://cmna-workshop.github.io/cmna26/about/
+  color: "#990100"
+
 "ArgApp":
   url: https://argapp-workshop.github.io
   color: "#990100"

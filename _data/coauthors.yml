@@ -90,6 +90,10 @@
   - firstname: ["Pavlos", "P."]
     url: http://www.math-info.univ-paris5.fr/~moraitis/
 
+"Niskanen":
+  - firstname: ["Andreas", "A."]
+    url: https://www.cs.helsinki.fi/u/andreasn/
+
 "Prade":
   - firstname: ["Henri", "H."]
     url: https://www.irit.fr/~Henri.Prade/
@@ -101,6 +105,10 @@
 "Rossit":
   - firstname: ["Julien", "J."]
     url: http://www.math-info.univ-paris5.fr/~jrossit/
+
+"Salas-Jimenez":
+  - firstname: ["Karla", "K."]
+    url: https://www.irit.fr/~Karla-Denia.Salas-Jimenez/
 
 "Wallner":
   - firstname: ["Johannes Peter", "Johannes P.", "J. P."]
